@@ -1,0 +1,5547 @@
+Bill No: 100001
+Date: 2025-02-12
+Time: 08:33:21
+Customer ID: CUST0014
+Items:
+  - Pasta x 6 @ 90 = 540
+  - Cheese x 6 @ 100 = 600
+  - Soda x 5 @ 45 = 225
+Total: 1365
+Payment Mode: Cash
+
+Bill No: 100002
+Date: 2024-12-20
+Time: 16:10:13
+Customer ID: CUST0030
+Items:
+  - Cheese x 1 @ 100 = 100
+  - Eggs x 5 @ 55 = 275
+  - Coffee x 6 @ 110 = 660
+  - Pasta x 5 @ 90 = 450
+Total: 1485
+Payment Mode: UPI
+
+Bill No: 100003
+Date: 2025-01-02
+Time: 05:35:56
+Customer ID: CUST0002
+Items:
+  - Bread x 4 @ 40 = 160
+  - Banana x 5 @ 30 = 150
+  - Chips x 5 @ 35 = 175
+Total: 485
+Payment Mode: UPI
+
+Bill No: 100004
+Date: 2025-04-01
+Time: 20:24:36
+Customer ID: CUST0050
+Items:
+  - Milk x 2 @ 60 = 120
+Total: 120
+Payment Mode: UPI
+
+Bill No: 100005
+Date: 2025-01-17
+Time: 15:58:58
+Customer ID: CUST0036
+Items:
+  - Milk x 1 @ 60 = 60
+  - Spinach x 5 @ 25 = 125
+  - Rice x 2 @ 80 = 160
+  - Eggs x 5 @ 55 = 275
+  - Soda x 5 @ 45 = 225
+Total: 845
+Payment Mode: UPI
+
+Bill No: 100006
+Date: 2025-01-04
+Time: 19:58:57
+Customer ID: CUST0036
+Items:
+  - Milk x 5 @ 60 = 300
+  - Soda x 3 @ 45 = 135
+  - Spinach x 3 @ 25 = 75
+  - Chips x 2 @ 35 = 70
+  - Chicken x 6 @ 120 = 720
+Total: 1300
+Payment Mode: Cash
+
+Bill No: 100007
+Date: 2024-11-01
+Time: 15:49:30
+Customer ID: CUST0009
+Items:
+  - Apples x 2 @ 50 = 100
+  - Cheese x 6 @ 100 = 600
+  - Soda x 6 @ 45 = 270
+Total: 970
+Payment Mode: Card
+
+Bill No: 100008
+Date: 2024-11-26
+Time: 07:13:43
+Customer ID: CUST0005
+Items:
+  - Spinach x 1 @ 25 = 25
+  - Pasta x 4 @ 90 = 360
+  - Chicken x 5 @ 120 = 600
+  - Bread x 5 @ 40 = 200
+Total: 1185
+Payment Mode: UPI
+
+Bill No: 100009
+Date: 2024-11-21
+Time: 19:04:12
+Customer ID: CUST0035
+Items:
+  - Soda x 5 @ 45 = 225
+Total: 225
+Payment Mode: Card
+
+Bill No: 100010
+Date: 2024-10-21
+Time: 14:17:13
+Customer ID: CUST0045
+Items:
+  - Yogurt x 1 @ 50 = 50
+  - Pasta x 2 @ 90 = 180
+Total: 230
+Payment Mode: Card
+
+Bill No: 100011
+Date: 2024-12-13
+Time: 19:29:51
+Customer ID: CUST0022
+Items:
+  - Pizza x 5 @ 150 = 750
+  - Apples x 6 @ 50 = 300
+  - Rice x 3 @ 80 = 240
+Total: 1290
+Payment Mode: Cash
+
+Bill No: 100012
+Date: 2024-10-13
+Time: 05:55:53
+Customer ID: CUST0042
+Items:
+  - Banana x 6 @ 30 = 180
+  - Spinach x 1 @ 25 = 25
+  - Rice x 2 @ 80 = 160
+  - Orange Juice x 3 @ 70 = 210
+  - Cheese x 1 @ 100 = 100
+Total: 675
+Payment Mode: UPI
+
+Bill No: 100013
+Date: 2025-01-31
+Time: 09:37:19
+Customer ID: CUST0048
+Items:
+  - Cheese x 6 @ 100 = 600
+  - Coffee x 3 @ 110 = 330
+  - Pasta x 2 @ 90 = 180
+  - Chips x 6 @ 35 = 210
+  - Eggs x 6 @ 55 = 330
+Total: 1650
+Payment Mode: Card
+
+Bill No: 100014
+Date: 2025-01-24
+Time: 17:21:58
+Customer ID: CUST0034
+Items:
+  - Coffee x 6 @ 110 = 660
+  - Cheese x 4 @ 100 = 400
+  - Rice x 3 @ 80 = 240
+  - Banana x 1 @ 30 = 30
+  - Bread x 1 @ 40 = 40
+Total: 1370
+Payment Mode: Card
+
+Bill No: 100015
+Date: 2024-11-22
+Time: 20:19:01
+Customer ID: CUST0016
+Items:
+  - Orange Juice x 6 @ 70 = 420
+  - Milk x 4 @ 60 = 240
+Total: 660
+Payment Mode: Cash
+
+Bill No: 100016
+Date: 2025-01-31
+Time: 10:14:03
+Customer ID: CUST0024
+Items:
+  - Banana x 2 @ 30 = 60
+  - Bread x 5 @ 40 = 200
+  - Pasta x 1 @ 90 = 90
+  - Yogurt x 3 @ 50 = 150
+Total: 500
+Payment Mode: Cash
+
+Bill No: 100017
+Date: 2024-11-20
+Time: 22:11:31
+Customer ID: CUST0026
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Soda x 1 @ 45 = 45
+  - Milk x 3 @ 60 = 180
+  - Banana x 2 @ 30 = 60
+  - Coffee x 6 @ 110 = 660
+Total: 1245
+Payment Mode: UPI
+
+Bill No: 100018
+Date: 2024-10-10
+Time: 13:24:59
+Customer ID: CUST0033
+Items:
+  - Yogurt x 5 @ 50 = 250
+Total: 250
+Payment Mode: Card
+
+Bill No: 100019
+Date: 2024-10-22
+Time: 22:45:23
+Customer ID: CUST0011
+Items:
+  - Cheese x 4 @ 100 = 400
+  - Pasta x 1 @ 90 = 90
+  - Eggs x 2 @ 55 = 110
+  - Milk x 6 @ 60 = 360
+  - Chicken x 3 @ 120 = 360
+Total: 1320
+Payment Mode: Card
+
+Bill No: 100020
+Date: 2025-02-23
+Time: 14:40:57
+Customer ID: CUST0007
+Items:
+  - Orange Juice x 6 @ 70 = 420
+  - Milk x 1 @ 60 = 60
+Total: 480
+Payment Mode: Card
+
+Bill No: 100021
+Date: 2025-02-08
+Time: 17:03:27
+Customer ID: CUST0018
+Items:
+  - Coffee x 2 @ 110 = 220
+Total: 220
+Payment Mode: UPI
+
+Bill No: 100022
+Date: 2024-10-20
+Time: 14:16:34
+Customer ID: CUST0022
+Items:
+  - Yogurt x 2 @ 50 = 100
+  - Cheese x 2 @ 100 = 200
+  - Rice x 1 @ 80 = 80
+  - Chicken x 6 @ 120 = 720
+Total: 1100
+Payment Mode: UPI
+
+Bill No: 100023
+Date: 2024-11-22
+Time: 14:51:02
+Customer ID: CUST0023
+Items:
+  - Spinach x 3 @ 25 = 75
+  - Cheese x 3 @ 100 = 300
+  - Rice x 6 @ 80 = 480
+  - Bread x 5 @ 40 = 200
+Total: 1055
+Payment Mode: Card
+
+Bill No: 100024
+Date: 2024-10-22
+Time: 06:00:46
+Customer ID: CUST0013
+Items:
+  - Spinach x 5 @ 25 = 125
+  - Banana x 3 @ 30 = 90
+  - Bread x 1 @ 40 = 40
+  - Cheese x 1 @ 100 = 100
+  - Milk x 5 @ 60 = 300
+Total: 655
+Payment Mode: Card
+
+Bill No: 100025
+Date: 2025-04-02
+Time: 23:28:04
+Customer ID: CUST0039
+Items:
+  - Spinach x 5 @ 25 = 125
+  - Soda x 1 @ 45 = 45
+  - Chips x 4 @ 35 = 140
+Total: 310
+Payment Mode: Cash
+
+Bill No: 100026
+Date: 2024-10-15
+Time: 06:17:58
+Customer ID: CUST0021
+Items:
+  - Orange Juice x 6 @ 70 = 420
+  - Banana x 4 @ 30 = 120
+Total: 540
+Payment Mode: UPI
+
+Bill No: 100027
+Date: 2025-03-25
+Time: 02:05:45
+Customer ID: CUST0039
+Items:
+  - Soda x 3 @ 45 = 135
+  - Pizza x 5 @ 150 = 750
+  - Coffee x 3 @ 110 = 330
+  - Bread x 6 @ 40 = 240
+  - Spinach x 1 @ 25 = 25
+Total: 1480
+Payment Mode: Cash
+
+Bill No: 100028
+Date: 2024-12-12
+Time: 07:48:47
+Customer ID: CUST0020
+Items:
+  - Chips x 3 @ 35 = 105
+  - Spinach x 4 @ 25 = 100
+  - Soda x 6 @ 45 = 270
+Total: 475
+Payment Mode: Card
+
+Bill No: 100029
+Date: 2024-10-22
+Time: 22:07:26
+Customer ID: CUST0013
+Items:
+  - Cheese x 6 @ 100 = 600
+  - Eggs x 6 @ 55 = 330
+  - Soda x 2 @ 45 = 90
+  - Spinach x 5 @ 25 = 125
+  - Rice x 5 @ 80 = 400
+Total: 1545
+Payment Mode: Card
+
+Bill No: 100030
+Date: 2025-01-17
+Time: 00:02:45
+Customer ID: CUST0028
+Items:
+  - Banana x 4 @ 30 = 120
+  - Cheese x 5 @ 100 = 500
+  - Pasta x 5 @ 90 = 450
+  - Eggs x 6 @ 55 = 330
+Total: 1400
+Payment Mode: Card
+
+Bill No: 100031
+Date: 2024-11-24
+Time: 09:05:12
+Customer ID: CUST0019
+Items:
+  - Pasta x 5 @ 90 = 450
+  - Apples x 4 @ 50 = 200
+  - Spinach x 6 @ 25 = 150
+  - Eggs x 2 @ 55 = 110
+Total: 910
+Payment Mode: Cash
+
+Bill No: 100032
+Date: 2024-12-02
+Time: 05:42:10
+Customer ID: CUST0028
+Items:
+  - Chips x 5 @ 35 = 175
+Total: 175
+Payment Mode: Cash
+
+Bill No: 100033
+Date: 2025-02-16
+Time: 01:34:01
+Customer ID: CUST0021
+Items:
+  - Spinach x 6 @ 25 = 150
+  - Bread x 3 @ 40 = 120
+  - Rice x 2 @ 80 = 160
+  - Chicken x 2 @ 120 = 240
+  - Eggs x 2 @ 55 = 110
+Total: 780
+Payment Mode: UPI
+
+Bill No: 100034
+Date: 2025-01-11
+Time: 10:06:00
+Customer ID: CUST0037
+Items:
+  - Apples x 4 @ 50 = 200
+Total: 200
+Payment Mode: Cash
+
+Bill No: 100035
+Date: 2024-11-19
+Time: 18:19:14
+Customer ID: CUST0047
+Items:
+  - Pasta x 4 @ 90 = 360
+Total: 360
+Payment Mode: Cash
+
+Bill No: 100036
+Date: 2025-01-21
+Time: 20:55:01
+Customer ID: CUST0049
+Items:
+  - Soda x 4 @ 45 = 180
+  - Yogurt x 2 @ 50 = 100
+  - Pasta x 2 @ 90 = 180
+  - Coffee x 6 @ 110 = 660
+  - Apples x 6 @ 50 = 300
+Total: 1420
+Payment Mode: UPI
+
+Bill No: 100037
+Date: 2024-11-03
+Time: 20:31:21
+Customer ID: CUST0030
+Items:
+  - Rice x 2 @ 80 = 160
+Total: 160
+Payment Mode: UPI
+
+Bill No: 100038
+Date: 2025-02-26
+Time: 14:58:19
+Customer ID: CUST0041
+Items:
+  - Pasta x 4 @ 90 = 360
+  - Banana x 2 @ 30 = 60
+  - Orange Juice x 4 @ 70 = 280
+  - Eggs x 6 @ 55 = 330
+  - Bread x 5 @ 40 = 200
+Total: 1230
+Payment Mode: Cash
+
+Bill No: 100039
+Date: 2025-04-08
+Time: 19:43:01
+Customer ID: CUST0001
+Items:
+  - Spinach x 5 @ 25 = 125
+  - Chicken x 4 @ 120 = 480
+  - Apples x 5 @ 50 = 250
+  - Chips x 4 @ 35 = 140
+  - Yogurt x 2 @ 50 = 100
+Total: 1095
+Payment Mode: Cash
+
+Bill No: 100040
+Date: 2025-03-29
+Time: 12:06:28
+Customer ID: CUST0011
+Items:
+  - Pasta x 6 @ 90 = 540
+  - Cheese x 3 @ 100 = 300
+  - Chicken x 5 @ 120 = 600
+  - Eggs x 4 @ 55 = 220
+Total: 1660
+Payment Mode: Cash
+
+Bill No: 100041
+Date: 2025-01-28
+Time: 01:09:30
+Customer ID: CUST0044
+Items:
+  - Orange Juice x 1 @ 70 = 70
+  - Apples x 6 @ 50 = 300
+Total: 370
+Payment Mode: Card
+
+Bill No: 100042
+Date: 2025-01-29
+Time: 01:14:44
+Customer ID: CUST0025
+Items:
+  - Orange Juice x 3 @ 70 = 210
+  - Pizza x 5 @ 150 = 750
+Total: 960
+Payment Mode: UPI
+
+Bill No: 100043
+Date: 2025-01-08
+Time: 22:42:40
+Customer ID: CUST0011
+Items:
+  - Cheese x 4 @ 100 = 400
+  - Eggs x 6 @ 55 = 330
+Total: 730
+Payment Mode: UPI
+
+Bill No: 100044
+Date: 2024-11-25
+Time: 08:21:14
+Customer ID: CUST0033
+Items:
+  - Milk x 4 @ 60 = 240
+  - Soda x 3 @ 45 = 135
+Total: 375
+Payment Mode: Cash
+
+Bill No: 100045
+Date: 2025-03-10
+Time: 12:29:46
+Customer ID: CUST0045
+Items:
+  - Rice x 4 @ 80 = 320
+  - Banana x 5 @ 30 = 150
+  - Eggs x 6 @ 55 = 330
+  - Soda x 1 @ 45 = 45
+Total: 845
+Payment Mode: Cash
+
+Bill No: 100046
+Date: 2025-01-09
+Time: 00:07:06
+Customer ID: CUST0027
+Items:
+  - Coffee x 4 @ 110 = 440
+  - Banana x 4 @ 30 = 120
+  - Pizza x 5 @ 150 = 750
+  - Cheese x 6 @ 100 = 600
+Total: 1910
+Payment Mode: Cash
+
+Bill No: 100047
+Date: 2025-03-14
+Time: 23:06:48
+Customer ID: CUST0045
+Items:
+  - Apples x 4 @ 50 = 200
+  - Coffee x 1 @ 110 = 110
+  - Eggs x 4 @ 55 = 220
+  - Cheese x 3 @ 100 = 300
+  - Soda x 6 @ 45 = 270
+Total: 1100
+Payment Mode: Cash
+
+Bill No: 100048
+Date: 2024-12-27
+Time: 04:56:29
+Customer ID: CUST0011
+Items:
+  - Pizza x 5 @ 150 = 750
+  - Rice x 5 @ 80 = 400
+  - Apples x 1 @ 50 = 50
+  - Milk x 4 @ 60 = 240
+Total: 1440
+Payment Mode: Cash
+
+Bill No: 100049
+Date: 2024-11-15
+Time: 03:16:45
+Customer ID: CUST0013
+Items:
+  - Banana x 4 @ 30 = 120
+  - Bread x 2 @ 40 = 80
+  - Spinach x 1 @ 25 = 25
+  - Soda x 3 @ 45 = 135
+  - Milk x 4 @ 60 = 240
+Total: 600
+Payment Mode: Card
+
+Bill No: 100050
+Date: 2024-10-27
+Time: 11:29:41
+Customer ID: CUST0007
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Pizza x 4 @ 150 = 600
+Total: 870
+Payment Mode: Card
+
+Bill No: 100051
+Date: 2024-10-27
+Time: 23:38:06
+Customer ID: CUST0026
+Items:
+  - Orange Juice x 1 @ 70 = 70
+  - Rice x 6 @ 80 = 480
+  - Bread x 5 @ 40 = 200
+  - Apples x 1 @ 50 = 50
+Total: 800
+Payment Mode: Card
+
+Bill No: 100052
+Date: 2025-02-14
+Time: 02:59:12
+Customer ID: CUST0022
+Items:
+  - Milk x 6 @ 60 = 360
+  - Chicken x 1 @ 120 = 120
+Total: 480
+Payment Mode: UPI
+
+Bill No: 100053
+Date: 2024-12-31
+Time: 20:44:55
+Customer ID: CUST0047
+Items:
+  - Soda x 1 @ 45 = 45
+  - Rice x 5 @ 80 = 400
+Total: 445
+Payment Mode: UPI
+
+Bill No: 100054
+Date: 2024-12-16
+Time: 23:03:03
+Customer ID: CUST0001
+Items:
+  - Cheese x 6 @ 100 = 600
+  - Apples x 1 @ 50 = 50
+Total: 650
+Payment Mode: Cash
+
+Bill No: 100055
+Date: 2024-12-30
+Time: 09:55:27
+Customer ID: CUST0009
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Yogurt x 3 @ 50 = 150
+Total: 420
+Payment Mode: UPI
+
+Bill No: 100056
+Date: 2024-12-27
+Time: 23:46:48
+Customer ID: CUST0028
+Items:
+  - Eggs x 1 @ 55 = 55
+  - Chicken x 5 @ 120 = 600
+  - Rice x 1 @ 80 = 80
+  - Milk x 3 @ 60 = 180
+  - Cheese x 5 @ 100 = 500
+Total: 1415
+Payment Mode: Cash
+
+Bill No: 100057
+Date: 2025-01-07
+Time: 20:23:50
+Customer ID: CUST0011
+Items:
+  - Chicken x 5 @ 120 = 600
+  - Yogurt x 6 @ 50 = 300
+  - Eggs x 6 @ 55 = 330
+  - Bread x 2 @ 40 = 80
+Total: 1310
+Payment Mode: UPI
+
+Bill No: 100058
+Date: 2025-03-25
+Time: 21:40:32
+Customer ID: CUST0034
+Items:
+  - Eggs x 1 @ 55 = 55
+  - Chicken x 3 @ 120 = 360
+  - Chips x 5 @ 35 = 175
+Total: 590
+Payment Mode: Card
+
+Bill No: 100059
+Date: 2025-02-27
+Time: 17:38:40
+Customer ID: CUST0027
+Items:
+  - Milk x 3 @ 60 = 180
+  - Orange Juice x 1 @ 70 = 70
+  - Spinach x 4 @ 25 = 100
+Total: 350
+Payment Mode: Card
+
+Bill No: 100060
+Date: 2024-10-19
+Time: 16:21:38
+Customer ID: CUST0044
+Items:
+  - Rice x 3 @ 80 = 240
+Total: 240
+Payment Mode: Cash
+
+Bill No: 100061
+Date: 2025-02-16
+Time: 22:00:39
+Customer ID: CUST0006
+Items:
+  - Cheese x 5 @ 100 = 500
+  - Soda x 6 @ 45 = 270
+  - Milk x 3 @ 60 = 180
+  - Yogurt x 5 @ 50 = 250
+Total: 1200
+Payment Mode: Cash
+
+Bill No: 100062
+Date: 2025-02-13
+Time: 01:13:40
+Customer ID: CUST0027
+Items:
+  - Pasta x 5 @ 90 = 450
+  - Soda x 3 @ 45 = 135
+  - Rice x 3 @ 80 = 240
+  - Yogurt x 2 @ 50 = 100
+Total: 925
+Payment Mode: UPI
+
+Bill No: 100063
+Date: 2025-02-11
+Time: 15:19:14
+Customer ID: CUST0036
+Items:
+  - Pasta x 4 @ 90 = 360
+  - Eggs x 5 @ 55 = 275
+  - Chicken x 5 @ 120 = 600
+Total: 1235
+Payment Mode: Cash
+
+Bill No: 100064
+Date: 2024-10-28
+Time: 06:33:54
+Customer ID: CUST0048
+Items:
+  - Spinach x 2 @ 25 = 50
+  - Banana x 4 @ 30 = 120
+  - Apples x 2 @ 50 = 100
+  - Pizza x 3 @ 150 = 450
+Total: 720
+Payment Mode: Card
+
+Bill No: 100065
+Date: 2024-10-20
+Time: 22:22:48
+Customer ID: CUST0028
+Items:
+  - Orange Juice x 6 @ 70 = 420
+  - Pasta x 3 @ 90 = 270
+  - Chips x 5 @ 35 = 175
+Total: 865
+Payment Mode: UPI
+
+Bill No: 100066
+Date: 2024-12-26
+Time: 08:15:21
+Customer ID: CUST0010
+Items:
+  - Soda x 4 @ 45 = 180
+  - Bread x 5 @ 40 = 200
+  - Eggs x 2 @ 55 = 110
+  - Yogurt x 6 @ 50 = 300
+  - Coffee x 4 @ 110 = 440
+Total: 1230
+Payment Mode: Cash
+
+Bill No: 100067
+Date: 2025-02-27
+Time: 13:37:33
+Customer ID: CUST0042
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Chicken x 2 @ 120 = 240
+  - Banana x 4 @ 30 = 120
+  - Bread x 6 @ 40 = 240
+Total: 870
+Payment Mode: UPI
+
+Bill No: 100068
+Date: 2024-12-14
+Time: 01:10:10
+Customer ID: CUST0002
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Apples x 3 @ 50 = 150
+  - Orange Juice x 4 @ 70 = 280
+Total: 680
+Payment Mode: Cash
+
+Bill No: 100069
+Date: 2025-03-13
+Time: 14:56:10
+Customer ID: CUST0040
+Items:
+  - Spinach x 3 @ 25 = 75
+  - Pizza x 3 @ 150 = 450
+  - Yogurt x 2 @ 50 = 100
+  - Apples x 1 @ 50 = 50
+  - Cheese x 6 @ 100 = 600
+Total: 1275
+Payment Mode: UPI
+
+Bill No: 100070
+Date: 2025-03-25
+Time: 11:35:23
+Customer ID: CUST0013
+Items:
+  - Eggs x 6 @ 55 = 330
+  - Yogurt x 2 @ 50 = 100
+  - Orange Juice x 2 @ 70 = 140
+Total: 570
+Payment Mode: UPI
+
+Bill No: 100071
+Date: 2024-10-30
+Time: 09:08:07
+Customer ID: CUST0044
+Items:
+  - Orange Juice x 5 @ 70 = 350
+  - Yogurt x 5 @ 50 = 250
+  - Chips x 3 @ 35 = 105
+  - Chicken x 1 @ 120 = 120
+Total: 825
+Payment Mode: UPI
+
+Bill No: 100072
+Date: 2024-11-26
+Time: 10:43:38
+Customer ID: CUST0012
+Items:
+  - Apples x 3 @ 50 = 150
+  - Pizza x 1 @ 150 = 150
+  - Milk x 6 @ 60 = 360
+Total: 660
+Payment Mode: Cash
+
+Bill No: 100073
+Date: 2024-11-15
+Time: 08:46:45
+Customer ID: CUST0022
+Items:
+  - Orange Juice x 1 @ 70 = 70
+  - Banana x 5 @ 30 = 150
+Total: 220
+Payment Mode: Card
+
+Bill No: 100074
+Date: 2024-11-15
+Time: 02:20:32
+Customer ID: CUST0014
+Items:
+  - Coffee x 1 @ 110 = 110
+  - Bread x 5 @ 40 = 200
+Total: 310
+Payment Mode: Card
+
+Bill No: 100075
+Date: 2025-01-21
+Time: 07:10:38
+Customer ID: CUST0018
+Items:
+  - Coffee x 1 @ 110 = 110
+  - Apples x 3 @ 50 = 150
+  - Pizza x 4 @ 150 = 600
+  - Milk x 1 @ 60 = 60
+Total: 920
+Payment Mode: UPI
+
+Bill No: 100076
+Date: 2025-01-04
+Time: 06:35:43
+Customer ID: CUST0005
+Items:
+  - Coffee x 6 @ 110 = 660
+  - Bread x 1 @ 40 = 40
+  - Chips x 2 @ 35 = 70
+  - Spinach x 2 @ 25 = 50
+Total: 820
+Payment Mode: Cash
+
+Bill No: 100077
+Date: 2024-11-05
+Time: 09:12:05
+Customer ID: CUST0031
+Items:
+  - Milk x 5 @ 60 = 300
+  - Eggs x 4 @ 55 = 220
+  - Bread x 5 @ 40 = 200
+Total: 720
+Payment Mode: Cash
+
+Bill No: 100078
+Date: 2024-12-30
+Time: 02:00:56
+Customer ID: CUST0015
+Items:
+  - Apples x 4 @ 50 = 200
+  - Chicken x 3 @ 120 = 360
+  - Orange Juice x 5 @ 70 = 350
+  - Soda x 4 @ 45 = 180
+  - Coffee x 3 @ 110 = 330
+Total: 1420
+Payment Mode: Cash
+
+Bill No: 100079
+Date: 2024-11-13
+Time: 19:01:15
+Customer ID: CUST0018
+Items:
+  - Bread x 6 @ 40 = 240
+  - Chips x 2 @ 35 = 70
+  - Yogurt x 3 @ 50 = 150
+  - Coffee x 6 @ 110 = 660
+  - Eggs x 1 @ 55 = 55
+Total: 1175
+Payment Mode: UPI
+
+Bill No: 100080
+Date: 2024-12-02
+Time: 06:01:09
+Customer ID: CUST0021
+Items:
+  - Pizza x 1 @ 150 = 150
+  - Orange Juice x 2 @ 70 = 140
+Total: 290
+Payment Mode: UPI
+
+Bill No: 100081
+Date: 2025-01-06
+Time: 23:54:28
+Customer ID: CUST0009
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Yogurt x 1 @ 50 = 50
+  - Chips x 2 @ 35 = 70
+  - Apples x 3 @ 50 = 150
+Total: 540
+Payment Mode: Cash
+
+Bill No: 100082
+Date: 2024-11-26
+Time: 16:05:13
+Customer ID: CUST0009
+Items:
+  - Pasta x 2 @ 90 = 180
+  - Bread x 3 @ 40 = 120
+  - Spinach x 6 @ 25 = 150
+Total: 450
+Payment Mode: Cash
+
+Bill No: 100083
+Date: 2025-03-27
+Time: 23:18:16
+Customer ID: CUST0039
+Items:
+  - Rice x 5 @ 80 = 400
+  - Bread x 2 @ 40 = 80
+Total: 480
+Payment Mode: Cash
+
+Bill No: 100084
+Date: 2025-04-06
+Time: 10:38:03
+Customer ID: CUST0038
+Items:
+  - Orange Juice x 2 @ 70 = 140
+  - Rice x 1 @ 80 = 80
+Total: 220
+Payment Mode: UPI
+
+Bill No: 100085
+Date: 2024-10-23
+Time: 19:13:25
+Customer ID: CUST0014
+Items:
+  - Chips x 6 @ 35 = 210
+  - Coffee x 5 @ 110 = 550
+Total: 760
+Payment Mode: Card
+
+Bill No: 100086
+Date: 2025-01-03
+Time: 05:02:37
+Customer ID: CUST0018
+Items:
+  - Eggs x 6 @ 55 = 330
+  - Apples x 4 @ 50 = 200
+  - Yogurt x 3 @ 50 = 150
+  - Cheese x 5 @ 100 = 500
+Total: 1180
+Payment Mode: Cash
+
+Bill No: 100087
+Date: 2025-03-15
+Time: 01:33:40
+Customer ID: CUST0036
+Items:
+  - Pasta x 4 @ 90 = 360
+  - Bread x 6 @ 40 = 240
+  - Chips x 3 @ 35 = 105
+  - Banana x 5 @ 30 = 150
+Total: 855
+Payment Mode: Card
+
+Bill No: 100088
+Date: 2025-03-25
+Time: 10:04:56
+Customer ID: CUST0024
+Items:
+  - Milk x 2 @ 60 = 120
+Total: 120
+Payment Mode: Cash
+
+Bill No: 100089
+Date: 2025-03-24
+Time: 08:59:58
+Customer ID: CUST0049
+Items:
+  - Banana x 1 @ 30 = 30
+  - Chicken x 2 @ 120 = 240
+  - Spinach x 4 @ 25 = 100
+  - Cheese x 5 @ 100 = 500
+  - Chips x 6 @ 35 = 210
+Total: 1080
+Payment Mode: Card
+
+Bill No: 100090
+Date: 2025-01-24
+Time: 00:36:23
+Customer ID: CUST0046
+Items:
+  - Pizza x 6 @ 150 = 900
+  - Chips x 4 @ 35 = 140
+  - Soda x 1 @ 45 = 45
+Total: 1085
+Payment Mode: Card
+
+Bill No: 100091
+Date: 2024-10-28
+Time: 04:11:32
+Customer ID: CUST0039
+Items:
+  - Rice x 6 @ 80 = 480
+  - Pizza x 1 @ 150 = 150
+  - Pasta x 2 @ 90 = 180
+Total: 810
+Payment Mode: Card
+
+Bill No: 100092
+Date: 2024-10-18
+Time: 23:39:48
+Customer ID: CUST0049
+Items:
+  - Coffee x 5 @ 110 = 550
+  - Cheese x 1 @ 100 = 100
+  - Spinach x 4 @ 25 = 100
+  - Soda x 1 @ 45 = 45
+Total: 795
+Payment Mode: Card
+
+Bill No: 100093
+Date: 2025-02-12
+Time: 19:07:12
+Customer ID: CUST0048
+Items:
+  - Spinach x 4 @ 25 = 100
+  - Bread x 5 @ 40 = 200
+  - Chicken x 1 @ 120 = 120
+Total: 420
+Payment Mode: Cash
+
+Bill No: 100094
+Date: 2025-01-22
+Time: 03:13:37
+Customer ID: CUST0019
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Soda x 5 @ 45 = 225
+  - Banana x 4 @ 30 = 120
+  - Eggs x 6 @ 55 = 330
+  - Orange Juice x 4 @ 70 = 280
+Total: 1225
+Payment Mode: UPI
+
+Bill No: 100095
+Date: 2025-03-20
+Time: 12:04:32
+Customer ID: CUST0030
+Items:
+  - Orange Juice x 2 @ 70 = 140
+  - Coffee x 3 @ 110 = 330
+Total: 470
+Payment Mode: Card
+
+Bill No: 100096
+Date: 2024-10-12
+Time: 00:40:52
+Customer ID: CUST0048
+Items:
+  - Eggs x 2 @ 55 = 110
+  - Banana x 6 @ 30 = 180
+  - Spinach x 2 @ 25 = 50
+  - Chips x 3 @ 35 = 105
+Total: 445
+Payment Mode: Cash
+
+Bill No: 100097
+Date: 2024-10-27
+Time: 06:32:26
+Customer ID: CUST0038
+Items:
+  - Rice x 1 @ 80 = 80
+Total: 80
+Payment Mode: UPI
+
+Bill No: 100098
+Date: 2025-04-07
+Time: 01:05:15
+Customer ID: CUST0009
+Items:
+  - Pasta x 1 @ 90 = 90
+Total: 90
+Payment Mode: Cash
+
+Bill No: 100099
+Date: 2025-03-04
+Time: 11:46:28
+Customer ID: CUST0017
+Items:
+  - Coffee x 6 @ 110 = 660
+  - Pasta x 3 @ 90 = 270
+Total: 930
+Payment Mode: Cash
+
+Bill No: 100100
+Date: 2025-03-22
+Time: 23:06:48
+Customer ID: CUST0023
+Items:
+  - Rice x 4 @ 80 = 320
+  - Coffee x 2 @ 110 = 220
+  - Apples x 4 @ 50 = 200
+Total: 740
+Payment Mode: Cash
+
+Bill No: 100101
+Date: 2024-11-24
+Time: 01:30:46
+Customer ID: CUST0013
+Items:
+  - Chicken x 5 @ 120 = 600
+  - Eggs x 5 @ 55 = 275
+Total: 875
+Payment Mode: Cash
+
+Bill No: 100102
+Date: 2024-11-10
+Time: 10:58:14
+Customer ID: CUST0006
+Items:
+  - Milk x 4 @ 60 = 240
+  - Cheese x 3 @ 100 = 300
+Total: 540
+Payment Mode: Cash
+
+Bill No: 100103
+Date: 2024-12-27
+Time: 01:55:53
+Customer ID: CUST0016
+Items:
+  - Banana x 3 @ 30 = 90
+  - Cheese x 5 @ 100 = 500
+  - Yogurt x 5 @ 50 = 250
+Total: 840
+Payment Mode: Cash
+
+Bill No: 100104
+Date: 2025-01-11
+Time: 11:09:23
+Customer ID: CUST0032
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Apples x 3 @ 50 = 150
+  - Orange Juice x 5 @ 70 = 350
+  - Pasta x 5 @ 90 = 450
+Total: 1250
+Payment Mode: Card
+
+Bill No: 100105
+Date: 2025-01-10
+Time: 15:11:51
+Customer ID: CUST0011
+Items:
+  - Spinach x 2 @ 25 = 50
+  - Rice x 5 @ 80 = 400
+  - Eggs x 4 @ 55 = 220
+  - Yogurt x 2 @ 50 = 100
+Total: 770
+Payment Mode: Card
+
+Bill No: 100106
+Date: 2024-11-19
+Time: 16:02:21
+Customer ID: CUST0049
+Items:
+  - Spinach x 6 @ 25 = 150
+Total: 150
+Payment Mode: Card
+
+Bill No: 100107
+Date: 2025-03-26
+Time: 01:28:03
+Customer ID: CUST0010
+Items:
+  - Chicken x 2 @ 120 = 240
+  - Spinach x 4 @ 25 = 100
+  - Coffee x 1 @ 110 = 110
+  - Pasta x 2 @ 90 = 180
+Total: 630
+Payment Mode: Cash
+
+Bill No: 100108
+Date: 2024-12-26
+Time: 00:53:16
+Customer ID: CUST0039
+Items:
+  - Spinach x 5 @ 25 = 125
+  - Rice x 4 @ 80 = 320
+  - Bread x 1 @ 40 = 40
+  - Apples x 6 @ 50 = 300
+  - Pasta x 2 @ 90 = 180
+Total: 965
+Payment Mode: Card
+
+Bill No: 100109
+Date: 2025-04-02
+Time: 09:35:35
+Customer ID: CUST0030
+Items:
+  - Milk x 3 @ 60 = 180
+  - Apples x 3 @ 50 = 150
+Total: 330
+Payment Mode: Cash
+
+Bill No: 100110
+Date: 2024-10-20
+Time: 13:09:55
+Customer ID: CUST0014
+Items:
+  - Milk x 5 @ 60 = 300
+  - Rice x 4 @ 80 = 320
+  - Pizza x 3 @ 150 = 450
+  - Spinach x 6 @ 25 = 150
+Total: 1220
+Payment Mode: Cash
+
+Bill No: 100111
+Date: 2024-11-10
+Time: 03:10:09
+Customer ID: CUST0043
+Items:
+  - Bread x 6 @ 40 = 240
+  - Chips x 6 @ 35 = 210
+  - Coffee x 3 @ 110 = 330
+  - Eggs x 2 @ 55 = 110
+Total: 890
+Payment Mode: Cash
+
+Bill No: 100112
+Date: 2024-12-21
+Time: 18:02:50
+Customer ID: CUST0022
+Items:
+  - Rice x 1 @ 80 = 80
+Total: 80
+Payment Mode: Cash
+
+Bill No: 100113
+Date: 2024-10-09
+Time: 13:56:58
+Customer ID: CUST0024
+Items:
+  - Pasta x 2 @ 90 = 180
+Total: 180
+Payment Mode: Cash
+
+Bill No: 100114
+Date: 2024-12-23
+Time: 23:24:07
+Customer ID: CUST0027
+Items:
+  - Banana x 1 @ 30 = 30
+  - Coffee x 3 @ 110 = 330
+  - Pizza x 3 @ 150 = 450
+Total: 810
+Payment Mode: Card
+
+Bill No: 100115
+Date: 2024-11-29
+Time: 15:50:25
+Customer ID: CUST0038
+Items:
+  - Cheese x 5 @ 100 = 500
+  - Eggs x 6 @ 55 = 330
+  - Orange Juice x 2 @ 70 = 140
+  - Soda x 2 @ 45 = 90
+Total: 1060
+Payment Mode: UPI
+
+Bill No: 100116
+Date: 2025-04-07
+Time: 01:47:30
+Customer ID: CUST0033
+Items:
+  - Chicken x 5 @ 120 = 600
+Total: 600
+Payment Mode: Cash
+
+Bill No: 100117
+Date: 2025-03-10
+Time: 09:56:18
+Customer ID: CUST0006
+Items:
+  - Coffee x 5 @ 110 = 550
+  - Pasta x 2 @ 90 = 180
+Total: 730
+Payment Mode: UPI
+
+Bill No: 100118
+Date: 2025-03-10
+Time: 14:52:21
+Customer ID: CUST0037
+Items:
+  - Orange Juice x 1 @ 70 = 70
+  - Apples x 4 @ 50 = 200
+  - Cheese x 3 @ 100 = 300
+  - Spinach x 6 @ 25 = 150
+Total: 720
+Payment Mode: Cash
+
+Bill No: 100119
+Date: 2025-01-05
+Time: 12:23:50
+Customer ID: CUST0033
+Items:
+  - Milk x 3 @ 60 = 180
+  - Apples x 5 @ 50 = 250
+Total: 430
+Payment Mode: Card
+
+Bill No: 100120
+Date: 2024-12-03
+Time: 13:15:44
+Customer ID: CUST0024
+Items:
+  - Orange Juice x 2 @ 70 = 140
+  - Apples x 4 @ 50 = 200
+  - Rice x 4 @ 80 = 320
+  - Cheese x 1 @ 100 = 100
+Total: 760
+Payment Mode: UPI
+
+Bill No: 100121
+Date: 2024-12-30
+Time: 07:15:44
+Customer ID: CUST0018
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Chips x 1 @ 35 = 35
+  - Cheese x 6 @ 100 = 600
+  - Coffee x 4 @ 110 = 440
+Total: 1225
+Payment Mode: Card
+
+Bill No: 100122
+Date: 2025-02-21
+Time: 10:15:23
+Customer ID: CUST0030
+Items:
+  - Bread x 5 @ 40 = 200
+Total: 200
+Payment Mode: Cash
+
+Bill No: 100123
+Date: 2025-02-28
+Time: 00:18:22
+Customer ID: CUST0042
+Items:
+  - Chips x 5 @ 35 = 175
+  - Chicken x 3 @ 120 = 360
+  - Pasta x 2 @ 90 = 180
+  - Eggs x 6 @ 55 = 330
+Total: 1045
+Payment Mode: UPI
+
+Bill No: 100124
+Date: 2025-03-10
+Time: 06:38:02
+Customer ID: CUST0016
+Items:
+  - Orange Juice x 6 @ 70 = 420
+  - Spinach x 2 @ 25 = 50
+  - Chicken x 6 @ 120 = 720
+  - Yogurt x 1 @ 50 = 50
+  - Pasta x 6 @ 90 = 540
+Total: 1780
+Payment Mode: Cash
+
+Bill No: 100125
+Date: 2025-01-25
+Time: 01:58:22
+Customer ID: CUST0003
+Items:
+  - Chips x 4 @ 35 = 140
+Total: 140
+Payment Mode: UPI
+
+Bill No: 100126
+Date: 2025-02-14
+Time: 16:26:54
+Customer ID: CUST0001
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Coffee x 6 @ 110 = 660
+  - Milk x 4 @ 60 = 240
+  - Bread x 2 @ 40 = 80
+  - Cheese x 2 @ 100 = 200
+Total: 1330
+Payment Mode: UPI
+
+Bill No: 100127
+Date: 2025-02-25
+Time: 15:55:47
+Customer ID: CUST0022
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Orange Juice x 4 @ 70 = 280
+  - Pasta x 3 @ 90 = 270
+  - Cheese x 6 @ 100 = 600
+  - Milk x 3 @ 60 = 180
+Total: 1480
+Payment Mode: UPI
+
+Bill No: 100128
+Date: 2025-01-11
+Time: 15:57:28
+Customer ID: CUST0029
+Items:
+  - Milk x 6 @ 60 = 360
+  - Coffee x 6 @ 110 = 660
+  - Chicken x 6 @ 120 = 720
+  - Eggs x 4 @ 55 = 220
+Total: 1960
+Payment Mode: Cash
+
+Bill No: 100129
+Date: 2024-11-08
+Time: 05:18:36
+Customer ID: CUST0010
+Items:
+  - Milk x 1 @ 60 = 60
+  - Chicken x 3 @ 120 = 360
+  - Soda x 5 @ 45 = 225
+Total: 645
+Payment Mode: UPI
+
+Bill No: 100130
+Date: 2024-11-15
+Time: 00:53:34
+Customer ID: CUST0003
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Spinach x 5 @ 25 = 125
+  - Coffee x 4 @ 110 = 440
+  - Pasta x 6 @ 90 = 540
+Total: 1255
+Payment Mode: Card
+
+Bill No: 100131
+Date: 2024-12-05
+Time: 18:39:48
+Customer ID: CUST0015
+Items:
+  - Apples x 4 @ 50 = 200
+Total: 200
+Payment Mode: UPI
+
+Bill No: 100132
+Date: 2024-11-20
+Time: 10:27:51
+Customer ID: CUST0007
+Items:
+  - Spinach x 1 @ 25 = 25
+  - Pasta x 6 @ 90 = 540
+  - Chips x 4 @ 35 = 140
+  - Eggs x 6 @ 55 = 330
+  - Coffee x 3 @ 110 = 330
+Total: 1365
+Payment Mode: Cash
+
+Bill No: 100133
+Date: 2024-10-20
+Time: 12:27:23
+Customer ID: CUST0016
+Items:
+  - Eggs x 3 @ 55 = 165
+  - Milk x 4 @ 60 = 240
+  - Banana x 1 @ 30 = 30
+  - Rice x 1 @ 80 = 80
+Total: 515
+Payment Mode: UPI
+
+Bill No: 100134
+Date: 2025-01-29
+Time: 15:04:49
+Customer ID: CUST0045
+Items:
+  - Cheese x 6 @ 100 = 600
+  - Soda x 6 @ 45 = 270
+  - Apples x 5 @ 50 = 250
+  - Pizza x 4 @ 150 = 600
+  - Spinach x 5 @ 25 = 125
+Total: 1845
+Payment Mode: Cash
+
+Bill No: 100135
+Date: 2025-03-01
+Time: 00:41:18
+Customer ID: CUST0025
+Items:
+  - Rice x 1 @ 80 = 80
+  - Spinach x 4 @ 25 = 100
+Total: 180
+Payment Mode: Cash
+
+Bill No: 100136
+Date: 2025-01-22
+Time: 10:43:03
+Customer ID: CUST0037
+Items:
+  - Orange Juice x 2 @ 70 = 140
+  - Banana x 4 @ 30 = 120
+  - Yogurt x 4 @ 50 = 200
+  - Pizza x 2 @ 150 = 300
+Total: 760
+Payment Mode: Card
+
+Bill No: 100137
+Date: 2024-10-20
+Time: 23:59:15
+Customer ID: CUST0024
+Items:
+  - Yogurt x 5 @ 50 = 250
+Total: 250
+Payment Mode: Cash
+
+Bill No: 100138
+Date: 2025-03-03
+Time: 09:43:24
+Customer ID: CUST0028
+Items:
+  - Bread x 2 @ 40 = 80
+  - Soda x 1 @ 45 = 45
+  - Cheese x 4 @ 100 = 400
+Total: 525
+Payment Mode: UPI
+
+Bill No: 100139
+Date: 2024-12-09
+Time: 01:24:32
+Customer ID: CUST0027
+Items:
+  - Banana x 3 @ 30 = 90
+  - Coffee x 2 @ 110 = 220
+Total: 310
+Payment Mode: UPI
+
+Bill No: 100140
+Date: 2024-10-20
+Time: 06:18:51
+Customer ID: CUST0030
+Items:
+  - Soda x 2 @ 45 = 90
+  - Bread x 5 @ 40 = 200
+  - Rice x 2 @ 80 = 160
+  - Chicken x 2 @ 120 = 240
+  - Orange Juice x 3 @ 70 = 210
+Total: 900
+Payment Mode: UPI
+
+Bill No: 100141
+Date: 2024-10-18
+Time: 21:35:05
+Customer ID: CUST0024
+Items:
+  - Banana x 5 @ 30 = 150
+  - Cheese x 3 @ 100 = 300
+  - Rice x 2 @ 80 = 160
+  - Milk x 1 @ 60 = 60
+  - Chicken x 6 @ 120 = 720
+Total: 1390
+Payment Mode: UPI
+
+Bill No: 100142
+Date: 2025-01-30
+Time: 14:22:10
+Customer ID: CUST0049
+Items:
+  - Banana x 2 @ 30 = 60
+  - Pizza x 5 @ 150 = 750
+Total: 810
+Payment Mode: Card
+
+Bill No: 100143
+Date: 2025-01-09
+Time: 17:54:00
+Customer ID: CUST0033
+Items:
+  - Pizza x 3 @ 150 = 450
+Total: 450
+Payment Mode: UPI
+
+Bill No: 100144
+Date: 2025-01-14
+Time: 19:21:26
+Customer ID: CUST0044
+Items:
+  - Rice x 1 @ 80 = 80
+  - Orange Juice x 6 @ 70 = 420
+Total: 500
+Payment Mode: UPI
+
+Bill No: 100145
+Date: 2025-04-05
+Time: 16:33:33
+Customer ID: CUST0009
+Items:
+  - Pasta x 5 @ 90 = 450
+  - Chicken x 1 @ 120 = 120
+  - Pizza x 4 @ 150 = 600
+  - Orange Juice x 5 @ 70 = 350
+Total: 1520
+Payment Mode: UPI
+
+Bill No: 100146
+Date: 2025-03-23
+Time: 17:52:02
+Customer ID: CUST0039
+Items:
+  - Bread x 3 @ 40 = 120
+  - Yogurt x 4 @ 50 = 200
+  - Chicken x 6 @ 120 = 720
+  - Spinach x 1 @ 25 = 25
+  - Orange Juice x 1 @ 70 = 70
+Total: 1135
+Payment Mode: Card
+
+Bill No: 100147
+Date: 2025-01-20
+Time: 07:07:54
+Customer ID: CUST0035
+Items:
+  - Rice x 6 @ 80 = 480
+  - Spinach x 4 @ 25 = 100
+  - Bread x 1 @ 40 = 40
+  - Apples x 1 @ 50 = 50
+Total: 670
+Payment Mode: Card
+
+Bill No: 100148
+Date: 2024-11-08
+Time: 17:35:39
+Customer ID: CUST0016
+Items:
+  - Cheese x 6 @ 100 = 600
+  - Bread x 5 @ 40 = 200
+  - Milk x 5 @ 60 = 300
+  - Coffee x 6 @ 110 = 660
+  - Chips x 3 @ 35 = 105
+Total: 1865
+Payment Mode: Card
+
+Bill No: 100149
+Date: 2024-10-20
+Time: 04:58:57
+Customer ID: CUST0014
+Items:
+  - Chips x 1 @ 35 = 35
+  - Apples x 6 @ 50 = 300
+  - Orange Juice x 1 @ 70 = 70
+  - Coffee x 6 @ 110 = 660
+  - Soda x 6 @ 45 = 270
+Total: 1335
+Payment Mode: Cash
+
+Bill No: 100150
+Date: 2025-01-15
+Time: 18:33:25
+Customer ID: CUST0029
+Items:
+  - Rice x 2 @ 80 = 160
+  - Apples x 4 @ 50 = 200
+Total: 360
+Payment Mode: Card
+
+Bill No: 100151
+Date: 2024-10-24
+Time: 17:15:04
+Customer ID: CUST0021
+Items:
+  - Chicken x 3 @ 120 = 360
+  - Soda x 4 @ 45 = 180
+  - Yogurt x 3 @ 50 = 150
+  - Bread x 6 @ 40 = 240
+Total: 930
+Payment Mode: Card
+
+Bill No: 100152
+Date: 2025-03-23
+Time: 11:26:54
+Customer ID: CUST0044
+Items:
+  - Cheese x 1 @ 100 = 100
+  - Spinach x 1 @ 25 = 25
+  - Apples x 1 @ 50 = 50
+Total: 175
+Payment Mode: UPI
+
+Bill No: 100153
+Date: 2024-11-14
+Time: 05:54:42
+Customer ID: CUST0006
+Items:
+  - Eggs x 2 @ 55 = 110
+  - Yogurt x 5 @ 50 = 250
+  - Pasta x 1 @ 90 = 90
+  - Pizza x 5 @ 150 = 750
+Total: 1200
+Payment Mode: Cash
+
+Bill No: 100154
+Date: 2024-10-22
+Time: 11:14:14
+Customer ID: CUST0026
+Items:
+  - Spinach x 6 @ 25 = 150
+  - Coffee x 4 @ 110 = 440
+  - Bread x 6 @ 40 = 240
+  - Soda x 1 @ 45 = 45
+  - Pizza x 3 @ 150 = 450
+Total: 1325
+Payment Mode: Cash
+
+Bill No: 100155
+Date: 2025-02-01
+Time: 16:58:09
+Customer ID: CUST0014
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Bread x 2 @ 40 = 80
+  - Chips x 2 @ 35 = 70
+Total: 400
+Payment Mode: Cash
+
+Bill No: 100156
+Date: 2024-10-22
+Time: 08:37:31
+Customer ID: CUST0008
+Items:
+  - Apples x 5 @ 50 = 250
+  - Rice x 3 @ 80 = 240
+  - Bread x 1 @ 40 = 40
+  - Pizza x 3 @ 150 = 450
+Total: 980
+Payment Mode: Cash
+
+Bill No: 100157
+Date: 2025-02-17
+Time: 06:37:23
+Customer ID: CUST0003
+Items:
+  - Rice x 5 @ 80 = 400
+  - Coffee x 5 @ 110 = 550
+Total: 950
+Payment Mode: Cash
+
+Bill No: 100158
+Date: 2025-03-25
+Time: 12:16:23
+Customer ID: CUST0023
+Items:
+  - Banana x 1 @ 30 = 30
+  - Chips x 2 @ 35 = 70
+  - Spinach x 3 @ 25 = 75
+  - Yogurt x 6 @ 50 = 300
+  - Cheese x 3 @ 100 = 300
+Total: 775
+Payment Mode: Card
+
+Bill No: 100159
+Date: 2024-11-23
+Time: 20:02:03
+Customer ID: CUST0042
+Items:
+  - Banana x 2 @ 30 = 60
+  - Milk x 5 @ 60 = 300
+  - Rice x 6 @ 80 = 480
+Total: 840
+Payment Mode: Card
+
+Bill No: 100160
+Date: 2024-12-26
+Time: 13:38:06
+Customer ID: CUST0021
+Items:
+  - Cheese x 6 @ 100 = 600
+Total: 600
+Payment Mode: Cash
+
+Bill No: 100161
+Date: 2024-11-01
+Time: 10:37:00
+Customer ID: CUST0046
+Items:
+  - Milk x 6 @ 60 = 360
+Total: 360
+Payment Mode: Cash
+
+Bill No: 100162
+Date: 2025-03-31
+Time: 00:56:39
+Customer ID: CUST0029
+Items:
+  - Chicken x 4 @ 120 = 480
+  - Soda x 3 @ 45 = 135
+Total: 615
+Payment Mode: UPI
+
+Bill No: 100163
+Date: 2025-01-27
+Time: 18:47:04
+Customer ID: CUST0033
+Items:
+  - Chips x 5 @ 35 = 175
+  - Yogurt x 5 @ 50 = 250
+  - Pizza x 1 @ 150 = 150
+Total: 575
+Payment Mode: UPI
+
+Bill No: 100164
+Date: 2024-11-25
+Time: 23:21:05
+Customer ID: CUST0003
+Items:
+  - Pizza x 5 @ 150 = 750
+  - Chicken x 1 @ 120 = 120
+Total: 870
+Payment Mode: Cash
+
+Bill No: 100165
+Date: 2025-01-29
+Time: 13:51:47
+Customer ID: CUST0005
+Items:
+  - Orange Juice x 4 @ 70 = 280
+Total: 280
+Payment Mode: Cash
+
+Bill No: 100166
+Date: 2025-02-01
+Time: 14:33:53
+Customer ID: CUST0030
+Items:
+  - Coffee x 3 @ 110 = 330
+  - Chips x 2 @ 35 = 70
+  - Apples x 5 @ 50 = 250
+  - Soda x 1 @ 45 = 45
+Total: 695
+Payment Mode: Card
+
+Bill No: 100167
+Date: 2024-10-16
+Time: 21:06:51
+Customer ID: CUST0038
+Items:
+  - Eggs x 5 @ 55 = 275
+  - Cheese x 4 @ 100 = 400
+  - Spinach x 5 @ 25 = 125
+  - Rice x 6 @ 80 = 480
+Total: 1280
+Payment Mode: Card
+
+Bill No: 100168
+Date: 2025-02-06
+Time: 10:25:54
+Customer ID: CUST0022
+Items:
+  - Apples x 4 @ 50 = 200
+Total: 200
+Payment Mode: Cash
+
+Bill No: 100169
+Date: 2024-10-25
+Time: 01:58:30
+Customer ID: CUST0018
+Items:
+  - Banana x 2 @ 30 = 60
+Total: 60
+Payment Mode: Card
+
+Bill No: 100170
+Date: 2024-12-29
+Time: 13:38:03
+Customer ID: CUST0044
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Chicken x 3 @ 120 = 360
+Total: 660
+Payment Mode: Card
+
+Bill No: 100171
+Date: 2025-02-13
+Time: 19:29:08
+Customer ID: CUST0035
+Items:
+  - Banana x 4 @ 30 = 120
+Total: 120
+Payment Mode: Cash
+
+Bill No: 100172
+Date: 2025-01-30
+Time: 12:00:53
+Customer ID: CUST0045
+Items:
+  - Pizza x 6 @ 150 = 900
+  - Milk x 2 @ 60 = 120
+  - Soda x 5 @ 45 = 225
+  - Orange Juice x 5 @ 70 = 350
+Total: 1595
+Payment Mode: Cash
+
+Bill No: 100173
+Date: 2025-01-26
+Time: 22:03:11
+Customer ID: CUST0027
+Items:
+  - Milk x 6 @ 60 = 360
+  - Soda x 1 @ 45 = 45
+  - Rice x 4 @ 80 = 320
+Total: 725
+Payment Mode: UPI
+
+Bill No: 100174
+Date: 2025-01-18
+Time: 16:14:55
+Customer ID: CUST0010
+Items:
+  - Milk x 4 @ 60 = 240
+  - Rice x 5 @ 80 = 400
+  - Pizza x 4 @ 150 = 600
+  - Chips x 6 @ 35 = 210
+Total: 1450
+Payment Mode: Cash
+
+Bill No: 100175
+Date: 2024-12-09
+Time: 14:17:42
+Customer ID: CUST0006
+Items:
+  - Chips x 3 @ 35 = 105
+  - Bread x 2 @ 40 = 80
+  - Soda x 5 @ 45 = 225
+  - Banana x 4 @ 30 = 120
+Total: 530
+Payment Mode: Cash
+
+Bill No: 100176
+Date: 2025-04-08
+Time: 15:57:05
+Customer ID: CUST0012
+Items:
+  - Milk x 1 @ 60 = 60
+  - Soda x 2 @ 45 = 90
+  - Rice x 4 @ 80 = 320
+Total: 470
+Payment Mode: Cash
+
+Bill No: 100177
+Date: 2024-11-28
+Time: 19:09:39
+Customer ID: CUST0023
+Items:
+  - Milk x 6 @ 60 = 360
+  - Soda x 3 @ 45 = 135
+  - Rice x 2 @ 80 = 160
+  - Cheese x 3 @ 100 = 300
+Total: 955
+Payment Mode: UPI
+
+Bill No: 100178
+Date: 2024-11-17
+Time: 19:49:17
+Customer ID: CUST0016
+Items:
+  - Eggs x 5 @ 55 = 275
+Total: 275
+Payment Mode: Cash
+
+Bill No: 100179
+Date: 2025-02-16
+Time: 05:03:14
+Customer ID: CUST0020
+Items:
+  - Yogurt x 6 @ 50 = 300
+  - Pizza x 6 @ 150 = 900
+Total: 1200
+Payment Mode: UPI
+
+Bill No: 100180
+Date: 2025-02-25
+Time: 05:36:01
+Customer ID: CUST0009
+Items:
+  - Eggs x 3 @ 55 = 165
+  - Milk x 2 @ 60 = 120
+Total: 285
+Payment Mode: UPI
+
+Bill No: 100181
+Date: 2024-12-09
+Time: 04:06:27
+Customer ID: CUST0030
+Items:
+  - Cheese x 2 @ 100 = 200
+  - Chicken x 6 @ 120 = 720
+  - Pasta x 4 @ 90 = 360
+  - Spinach x 4 @ 25 = 100
+  - Bread x 5 @ 40 = 200
+Total: 1580
+Payment Mode: Cash
+
+Bill No: 100182
+Date: 2024-11-24
+Time: 12:15:42
+Customer ID: CUST0029
+Items:
+  - Spinach x 2 @ 25 = 50
+  - Rice x 4 @ 80 = 320
+  - Coffee x 1 @ 110 = 110
+  - Pizza x 4 @ 150 = 600
+Total: 1080
+Payment Mode: Card
+
+Bill No: 100183
+Date: 2024-11-29
+Time: 17:45:29
+Customer ID: CUST0012
+Items:
+  - Orange Juice x 3 @ 70 = 210
+  - Chips x 5 @ 35 = 175
+  - Banana x 1 @ 30 = 30
+Total: 415
+Payment Mode: Card
+
+Bill No: 100184
+Date: 2024-12-25
+Time: 00:24:01
+Customer ID: CUST0002
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Banana x 1 @ 30 = 30
+  - Coffee x 6 @ 110 = 660
+  - Pizza x 1 @ 150 = 150
+Total: 1110
+Payment Mode: Cash
+
+Bill No: 100185
+Date: 2024-11-03
+Time: 13:50:30
+Customer ID: CUST0030
+Items:
+  - Chicken x 1 @ 120 = 120
+  - Apples x 4 @ 50 = 200
+  - Chips x 5 @ 35 = 175
+  - Orange Juice x 6 @ 70 = 420
+  - Yogurt x 2 @ 50 = 100
+Total: 1015
+Payment Mode: Card
+
+Bill No: 100186
+Date: 2025-02-16
+Time: 14:12:28
+Customer ID: CUST0029
+Items:
+  - Coffee x 1 @ 110 = 110
+  - Orange Juice x 3 @ 70 = 210
+  - Milk x 6 @ 60 = 360
+  - Banana x 1 @ 30 = 30
+  - Apples x 5 @ 50 = 250
+Total: 960
+Payment Mode: Cash
+
+Bill No: 100187
+Date: 2025-02-11
+Time: 12:09:23
+Customer ID: CUST0013
+Items:
+  - Bread x 6 @ 40 = 240
+  - Eggs x 4 @ 55 = 220
+Total: 460
+Payment Mode: Card
+
+Bill No: 100188
+Date: 2024-12-06
+Time: 09:59:32
+Customer ID: CUST0016
+Items:
+  - Pizza x 4 @ 150 = 600
+  - Coffee x 3 @ 110 = 330
+  - Pasta x 6 @ 90 = 540
+  - Cheese x 5 @ 100 = 500
+  - Soda x 1 @ 45 = 45
+Total: 2015
+Payment Mode: Cash
+
+Bill No: 100189
+Date: 2025-01-05
+Time: 22:43:32
+Customer ID: CUST0044
+Items:
+  - Milk x 5 @ 60 = 300
+  - Pizza x 6 @ 150 = 900
+  - Bread x 4 @ 40 = 160
+Total: 1360
+Payment Mode: Card
+
+Bill No: 100190
+Date: 2024-12-09
+Time: 13:23:50
+Customer ID: CUST0020
+Items:
+  - Cheese x 5 @ 100 = 500
+  - Pizza x 6 @ 150 = 900
+  - Bread x 2 @ 40 = 80
+Total: 1480
+Payment Mode: Card
+
+Bill No: 100191
+Date: 2025-04-07
+Time: 13:26:38
+Customer ID: CUST0007
+Items:
+  - Chicken x 6 @ 120 = 720
+  - Milk x 1 @ 60 = 60
+  - Chips x 3 @ 35 = 105
+Total: 885
+Payment Mode: Cash
+
+Bill No: 100192
+Date: 2025-03-04
+Time: 03:50:49
+Customer ID: CUST0019
+Items:
+  - Spinach x 6 @ 25 = 150
+  - Rice x 6 @ 80 = 480
+  - Milk x 6 @ 60 = 360
+  - Coffee x 5 @ 110 = 550
+Total: 1540
+Payment Mode: UPI
+
+Bill No: 100193
+Date: 2025-04-08
+Time: 20:44:33
+Customer ID: CUST0027
+Items:
+  - Yogurt x 2 @ 50 = 100
+  - Banana x 2 @ 30 = 60
+  - Pizza x 3 @ 150 = 450
+  - Cheese x 4 @ 100 = 400
+Total: 1010
+Payment Mode: UPI
+
+Bill No: 100194
+Date: 2024-10-23
+Time: 05:58:48
+Customer ID: CUST0010
+Items:
+  - Cheese x 1 @ 100 = 100
+  - Milk x 3 @ 60 = 180
+Total: 280
+Payment Mode: UPI
+
+Bill No: 100195
+Date: 2024-10-10
+Time: 23:19:04
+Customer ID: CUST0016
+Items:
+  - Bread x 2 @ 40 = 80
+  - Spinach x 5 @ 25 = 125
+  - Pizza x 4 @ 150 = 600
+  - Chicken x 2 @ 120 = 240
+  - Chips x 2 @ 35 = 70
+Total: 1115
+Payment Mode: UPI
+
+Bill No: 100196
+Date: 2025-01-06
+Time: 03:40:12
+Customer ID: CUST0011
+Items:
+  - Pizza x 3 @ 150 = 450
+  - Yogurt x 6 @ 50 = 300
+  - Apples x 6 @ 50 = 300
+  - Banana x 2 @ 30 = 60
+  - Soda x 4 @ 45 = 180
+Total: 1290
+Payment Mode: Cash
+
+Bill No: 100197
+Date: 2025-02-06
+Time: 18:42:59
+Customer ID: CUST0025
+Items:
+  - Pasta x 2 @ 90 = 180
+  - Eggs x 3 @ 55 = 165
+  - Orange Juice x 4 @ 70 = 280
+Total: 625
+Payment Mode: UPI
+
+Bill No: 100198
+Date: 2025-01-26
+Time: 11:38:42
+Customer ID: CUST0025
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Apples x 4 @ 50 = 200
+  - Chicken x 5 @ 120 = 600
+Total: 1070
+Payment Mode: Cash
+
+Bill No: 100199
+Date: 2024-10-28
+Time: 13:51:04
+Customer ID: CUST0025
+Items:
+  - Pizza x 5 @ 150 = 750
+  - Rice x 2 @ 80 = 160
+  - Eggs x 3 @ 55 = 165
+  - Chicken x 1 @ 120 = 120
+Total: 1195
+Payment Mode: Cash
+
+Bill No: 100200
+Date: 2024-10-23
+Time: 09:19:27
+Customer ID: CUST0044
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Orange Juice x 1 @ 70 = 70
+  - Bread x 3 @ 40 = 120
+  - Coffee x 1 @ 110 = 110
+Total: 550
+Payment Mode: UPI
+
+Bill No: 100201
+Date: 2025-01-21
+Time: 13:27:45
+Customer ID: CUST0042
+Items:
+  - Pasta x 2 @ 90 = 180
+  - Coffee x 4 @ 110 = 440
+  - Orange Juice x 1 @ 70 = 70
+Total: 690
+Payment Mode: UPI
+
+Bill No: 100202
+Date: 2024-11-19
+Time: 13:16:32
+Customer ID: CUST0027
+Items:
+  - Yogurt x 1 @ 50 = 50
+  - Pasta x 4 @ 90 = 360
+  - Banana x 5 @ 30 = 150
+  - Soda x 3 @ 45 = 135
+Total: 695
+Payment Mode: UPI
+
+Bill No: 100203
+Date: 2025-01-15
+Time: 09:29:53
+Customer ID: CUST0017
+Items:
+  - Milk x 3 @ 60 = 180
+  - Pizza x 1 @ 150 = 150
+  - Eggs x 6 @ 55 = 330
+  - Banana x 6 @ 30 = 180
+Total: 840
+Payment Mode: Card
+
+Bill No: 100204
+Date: 2024-11-29
+Time: 15:49:41
+Customer ID: CUST0050
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Banana x 4 @ 30 = 120
+Total: 420
+Payment Mode: Cash
+
+Bill No: 100205
+Date: 2024-11-03
+Time: 21:11:49
+Customer ID: CUST0004
+Items:
+  - Coffee x 5 @ 110 = 550
+  - Apples x 1 @ 50 = 50
+Total: 600
+Payment Mode: UPI
+
+Bill No: 100206
+Date: 2025-04-08
+Time: 09:12:31
+Customer ID: CUST0043
+Items:
+  - Orange Juice x 2 @ 70 = 140
+Total: 140
+Payment Mode: UPI
+
+Bill No: 100207
+Date: 2024-12-15
+Time: 22:24:13
+Customer ID: CUST0035
+Items:
+  - Rice x 3 @ 80 = 240
+  - Bread x 1 @ 40 = 40
+  - Chicken x 1 @ 120 = 120
+  - Cheese x 2 @ 100 = 200
+  - Eggs x 4 @ 55 = 220
+Total: 820
+Payment Mode: Cash
+
+Bill No: 100208
+Date: 2025-03-29
+Time: 05:01:45
+Customer ID: CUST0004
+Items:
+  - Pasta x 5 @ 90 = 450
+  - Bread x 1 @ 40 = 40
+  - Coffee x 6 @ 110 = 660
+  - Apples x 5 @ 50 = 250
+  - Chips x 5 @ 35 = 175
+Total: 1575
+Payment Mode: UPI
+
+Bill No: 100209
+Date: 2024-10-22
+Time: 12:29:43
+Customer ID: CUST0028
+Items:
+  - Chips x 1 @ 35 = 35
+  - Soda x 5 @ 45 = 225
+Total: 260
+Payment Mode: Card
+
+Bill No: 100210
+Date: 2025-03-28
+Time: 21:36:03
+Customer ID: CUST0021
+Items:
+  - Rice x 6 @ 80 = 480
+  - Milk x 6 @ 60 = 360
+Total: 840
+Payment Mode: UPI
+
+Bill No: 100211
+Date: 2024-11-25
+Time: 14:21:09
+Customer ID: CUST0023
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Bread x 5 @ 40 = 200
+  - Orange Juice x 1 @ 70 = 70
+  - Rice x 4 @ 80 = 320
+  - Chicken x 4 @ 120 = 480
+Total: 1320
+Payment Mode: UPI
+
+Bill No: 100212
+Date: 2024-12-19
+Time: 22:01:32
+Customer ID: CUST0045
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Cheese x 1 @ 100 = 100
+  - Coffee x 3 @ 110 = 330
+  - Banana x 2 @ 30 = 60
+Total: 640
+Payment Mode: Cash
+
+Bill No: 100213
+Date: 2024-12-03
+Time: 12:02:32
+Customer ID: CUST0008
+Items:
+  - Spinach x 2 @ 25 = 50
+Total: 50
+Payment Mode: UPI
+
+Bill No: 100214
+Date: 2024-11-08
+Time: 19:03:29
+Customer ID: CUST0025
+Items:
+  - Spinach x 2 @ 25 = 50
+  - Rice x 6 @ 80 = 480
+  - Coffee x 4 @ 110 = 440
+Total: 970
+Payment Mode: Cash
+
+Bill No: 100215
+Date: 2025-01-02
+Time: 05:59:34
+Customer ID: CUST0034
+Items:
+  - Pizza x 6 @ 150 = 900
+  - Chicken x 4 @ 120 = 480
+  - Milk x 1 @ 60 = 60
+  - Bread x 3 @ 40 = 120
+Total: 1560
+Payment Mode: UPI
+
+Bill No: 100216
+Date: 2025-03-20
+Time: 01:26:16
+Customer ID: CUST0031
+Items:
+  - Soda x 1 @ 45 = 45
+Total: 45
+Payment Mode: Card
+
+Bill No: 100217
+Date: 2025-01-22
+Time: 15:29:02
+Customer ID: CUST0048
+Items:
+  - Chicken x 4 @ 120 = 480
+  - Rice x 3 @ 80 = 240
+  - Orange Juice x 1 @ 70 = 70
+Total: 790
+Payment Mode: Cash
+
+Bill No: 100218
+Date: 2025-02-22
+Time: 18:38:18
+Customer ID: CUST0048
+Items:
+  - Chips x 1 @ 35 = 35
+  - Pizza x 6 @ 150 = 900
+Total: 935
+Payment Mode: Card
+
+Bill No: 100219
+Date: 2024-12-06
+Time: 21:44:12
+Customer ID: CUST0035
+Items:
+  - Eggs x 4 @ 55 = 220
+  - Chicken x 4 @ 120 = 480
+  - Pizza x 6 @ 150 = 900
+Total: 1600
+Payment Mode: Card
+
+Bill No: 100220
+Date: 2025-02-04
+Time: 22:31:46
+Customer ID: CUST0021
+Items:
+  - Spinach x 4 @ 25 = 100
+  - Milk x 3 @ 60 = 180
+  - Apples x 5 @ 50 = 250
+  - Yogurt x 3 @ 50 = 150
+Total: 680
+Payment Mode: UPI
+
+Bill No: 100221
+Date: 2025-03-14
+Time: 21:15:47
+Customer ID: CUST0002
+Items:
+  - Milk x 5 @ 60 = 300
+  - Soda x 3 @ 45 = 135
+  - Chips x 3 @ 35 = 105
+  - Coffee x 1 @ 110 = 110
+Total: 650
+Payment Mode: UPI
+
+Bill No: 100222
+Date: 2025-02-13
+Time: 03:39:18
+Customer ID: CUST0045
+Items:
+  - Chips x 5 @ 35 = 175
+  - Cheese x 6 @ 100 = 600
+  - Apples x 4 @ 50 = 200
+Total: 975
+Payment Mode: UPI
+
+Bill No: 100223
+Date: 2025-01-19
+Time: 20:56:49
+Customer ID: CUST0046
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Apples x 5 @ 50 = 250
+  - Banana x 4 @ 30 = 120
+  - Coffee x 3 @ 110 = 330
+Total: 850
+Payment Mode: Cash
+
+Bill No: 100224
+Date: 2024-10-10
+Time: 16:21:46
+Customer ID: CUST0017
+Items:
+  - Milk x 6 @ 60 = 360
+Total: 360
+Payment Mode: Cash
+
+Bill No: 100225
+Date: 2025-02-15
+Time: 20:22:22
+Customer ID: CUST0020
+Items:
+  - Yogurt x 6 @ 50 = 300
+  - Orange Juice x 2 @ 70 = 140
+  - Chicken x 1 @ 120 = 120
+  - Coffee x 2 @ 110 = 220
+Total: 780
+Payment Mode: Cash
+
+Bill No: 100226
+Date: 2025-03-16
+Time: 19:53:09
+Customer ID: CUST0020
+Items:
+  - Bread x 6 @ 40 = 240
+  - Milk x 3 @ 60 = 180
+  - Coffee x 3 @ 110 = 330
+  - Eggs x 4 @ 55 = 220
+Total: 970
+Payment Mode: Cash
+
+Bill No: 100227
+Date: 2025-01-24
+Time: 20:32:19
+Customer ID: CUST0032
+Items:
+  - Cheese x 6 @ 100 = 600
+Total: 600
+Payment Mode: Card
+
+Bill No: 100228
+Date: 2024-12-06
+Time: 07:06:38
+Customer ID: CUST0026
+Items:
+  - Yogurt x 1 @ 50 = 50
+  - Apples x 5 @ 50 = 250
+  - Chicken x 2 @ 120 = 240
+Total: 540
+Payment Mode: Cash
+
+Bill No: 100229
+Date: 2025-04-08
+Time: 02:12:09
+Customer ID: CUST0042
+Items:
+  - Chicken x 3 @ 120 = 360
+  - Pizza x 2 @ 150 = 300
+  - Spinach x 1 @ 25 = 25
+Total: 685
+Payment Mode: UPI
+
+Bill No: 100230
+Date: 2025-02-14
+Time: 23:31:12
+Customer ID: CUST0022
+Items:
+  - Coffee x 4 @ 110 = 440
+  - Orange Juice x 5 @ 70 = 350
+Total: 790
+Payment Mode: UPI
+
+Bill No: 100231
+Date: 2024-10-29
+Time: 06:39:10
+Customer ID: CUST0046
+Items:
+  - Orange Juice x 2 @ 70 = 140
+  - Yogurt x 5 @ 50 = 250
+  - Apples x 3 @ 50 = 150
+Total: 540
+Payment Mode: Cash
+
+Bill No: 100232
+Date: 2025-04-09
+Time: 11:38:08
+Customer ID: CUST0038
+Items:
+  - Soda x 4 @ 45 = 180
+  - Bread x 2 @ 40 = 80
+  - Milk x 6 @ 60 = 360
+  - Pasta x 4 @ 90 = 360
+Total: 980
+Payment Mode: UPI
+
+Bill No: 100233
+Date: 2025-03-28
+Time: 16:16:22
+Customer ID: CUST0050
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Coffee x 5 @ 110 = 550
+  - Bread x 3 @ 40 = 120
+Total: 920
+Payment Mode: Card
+
+Bill No: 100234
+Date: 2024-11-04
+Time: 05:44:48
+Customer ID: CUST0021
+Items:
+  - Pizza x 3 @ 150 = 450
+  - Chicken x 5 @ 120 = 600
+Total: 1050
+Payment Mode: UPI
+
+Bill No: 100235
+Date: 2024-11-29
+Time: 12:24:18
+Customer ID: CUST0007
+Items:
+  - Soda x 2 @ 45 = 90
+Total: 90
+Payment Mode: UPI
+
+Bill No: 100236
+Date: 2024-10-31
+Time: 13:50:28
+Customer ID: CUST0050
+Items:
+  - Banana x 3 @ 30 = 90
+  - Pizza x 4 @ 150 = 600
+  - Orange Juice x 5 @ 70 = 350
+  - Chips x 2 @ 35 = 70
+Total: 1110
+Payment Mode: Cash
+
+Bill No: 100237
+Date: 2025-03-30
+Time: 22:15:59
+Customer ID: CUST0039
+Items:
+  - Milk x 3 @ 60 = 180
+Total: 180
+Payment Mode: Card
+
+Bill No: 100238
+Date: 2024-10-29
+Time: 22:43:42
+Customer ID: CUST0023
+Items:
+  - Rice x 1 @ 80 = 80
+  - Chicken x 2 @ 120 = 240
+  - Soda x 3 @ 45 = 135
+  - Chips x 6 @ 35 = 210
+Total: 665
+Payment Mode: UPI
+
+Bill No: 100239
+Date: 2025-03-02
+Time: 07:49:02
+Customer ID: CUST0014
+Items:
+  - Pasta x 2 @ 90 = 180
+  - Spinach x 5 @ 25 = 125
+  - Orange Juice x 6 @ 70 = 420
+  - Pizza x 5 @ 150 = 750
+Total: 1475
+Payment Mode: UPI
+
+Bill No: 100240
+Date: 2025-01-24
+Time: 14:06:49
+Customer ID: CUST0018
+Items:
+  - Rice x 1 @ 80 = 80
+  - Orange Juice x 1 @ 70 = 70
+Total: 150
+Payment Mode: Cash
+
+Bill No: 100241
+Date: 2024-11-08
+Time: 08:20:40
+Customer ID: CUST0034
+Items:
+  - Chips x 2 @ 35 = 70
+  - Milk x 3 @ 60 = 180
+Total: 250
+Payment Mode: Cash
+
+Bill No: 100242
+Date: 2024-12-01
+Time: 01:08:21
+Customer ID: CUST0015
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Orange Juice x 1 @ 70 = 70
+Total: 220
+Payment Mode: Card
+
+Bill No: 100243
+Date: 2024-12-02
+Time: 20:59:02
+Customer ID: CUST0044
+Items:
+  - Orange Juice x 6 @ 70 = 420
+  - Milk x 3 @ 60 = 180
+Total: 600
+Payment Mode: Cash
+
+Bill No: 100244
+Date: 2025-02-03
+Time: 14:36:57
+Customer ID: CUST0002
+Items:
+  - Milk x 5 @ 60 = 300
+  - Orange Juice x 2 @ 70 = 140
+  - Spinach x 2 @ 25 = 50
+  - Coffee x 6 @ 110 = 660
+  - Chips x 5 @ 35 = 175
+Total: 1325
+Payment Mode: Cash
+
+Bill No: 100245
+Date: 2024-11-19
+Time: 01:30:36
+Customer ID: CUST0011
+Items:
+  - Spinach x 1 @ 25 = 25
+  - Rice x 1 @ 80 = 80
+  - Chips x 6 @ 35 = 210
+  - Banana x 5 @ 30 = 150
+  - Chicken x 3 @ 120 = 360
+Total: 825
+Payment Mode: Cash
+
+Bill No: 100246
+Date: 2025-02-25
+Time: 12:13:11
+Customer ID: CUST0030
+Items:
+  - Rice x 6 @ 80 = 480
+  - Chips x 1 @ 35 = 35
+Total: 515
+Payment Mode: Card
+
+Bill No: 100247
+Date: 2024-12-14
+Time: 17:50:33
+Customer ID: CUST0022
+Items:
+  - Chips x 6 @ 35 = 210
+  - Spinach x 4 @ 25 = 100
+  - Cheese x 3 @ 100 = 300
+  - Apples x 4 @ 50 = 200
+  - Eggs x 1 @ 55 = 55
+Total: 865
+Payment Mode: Cash
+
+Bill No: 100248
+Date: 2024-11-17
+Time: 16:44:13
+Customer ID: CUST0035
+Items:
+  - Pizza x 4 @ 150 = 600
+Total: 600
+Payment Mode: Card
+
+Bill No: 100249
+Date: 2025-02-19
+Time: 15:52:24
+Customer ID: CUST0039
+Items:
+  - Pasta x 2 @ 90 = 180
+  - Eggs x 3 @ 55 = 165
+  - Pizza x 6 @ 150 = 900
+  - Chips x 3 @ 35 = 105
+Total: 1350
+Payment Mode: Cash
+
+Bill No: 100250
+Date: 2025-02-09
+Time: 07:40:04
+Customer ID: CUST0037
+Items:
+  - Chicken x 3 @ 120 = 360
+  - Milk x 5 @ 60 = 300
+  - Coffee x 5 @ 110 = 550
+Total: 1210
+Payment Mode: UPI
+
+Bill No: 100251
+Date: 2025-03-23
+Time: 18:45:59
+Customer ID: CUST0022
+Items:
+  - Apples x 3 @ 50 = 150
+  - Coffee x 4 @ 110 = 440
+  - Bread x 2 @ 40 = 80
+Total: 670
+Payment Mode: UPI
+
+Bill No: 100252
+Date: 2024-11-29
+Time: 10:09:31
+Customer ID: CUST0046
+Items:
+  - Bread x 3 @ 40 = 120
+Total: 120
+Payment Mode: Card
+
+Bill No: 100253
+Date: 2025-01-15
+Time: 07:16:53
+Customer ID: CUST0004
+Items:
+  - Rice x 5 @ 80 = 400
+  - Eggs x 6 @ 55 = 330
+  - Coffee x 3 @ 110 = 330
+  - Milk x 2 @ 60 = 120
+  - Pizza x 2 @ 150 = 300
+Total: 1480
+Payment Mode: Card
+
+Bill No: 100254
+Date: 2025-01-12
+Time: 00:37:41
+Customer ID: CUST0046
+Items:
+  - Pasta x 1 @ 90 = 90
+  - Apples x 4 @ 50 = 200
+  - Cheese x 5 @ 100 = 500
+  - Coffee x 4 @ 110 = 440
+  - Banana x 2 @ 30 = 60
+Total: 1290
+Payment Mode: UPI
+
+Bill No: 100255
+Date: 2024-11-26
+Time: 22:12:52
+Customer ID: CUST0039
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Banana x 6 @ 30 = 180
+  - Pasta x 6 @ 90 = 540
+  - Cheese x 4 @ 100 = 400
+  - Apples x 3 @ 50 = 150
+Total: 1520
+Payment Mode: Cash
+
+Bill No: 100256
+Date: 2025-04-02
+Time: 23:04:42
+Customer ID: CUST0015
+Items:
+  - Eggs x 4 @ 55 = 220
+Total: 220
+Payment Mode: UPI
+
+Bill No: 100257
+Date: 2025-04-03
+Time: 12:13:57
+Customer ID: CUST0040
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Chicken x 1 @ 120 = 120
+  - Soda x 4 @ 45 = 180
+Total: 450
+Payment Mode: UPI
+
+Bill No: 100258
+Date: 2025-03-22
+Time: 11:02:01
+Customer ID: CUST0046
+Items:
+  - Soda x 4 @ 45 = 180
+  - Pizza x 5 @ 150 = 750
+  - Orange Juice x 4 @ 70 = 280
+  - Cheese x 5 @ 100 = 500
+  - Bread x 3 @ 40 = 120
+Total: 1830
+Payment Mode: Cash
+
+Bill No: 100259
+Date: 2024-10-19
+Time: 00:38:41
+Customer ID: CUST0011
+Items:
+  - Eggs x 3 @ 55 = 165
+  - Milk x 5 @ 60 = 300
+  - Bread x 3 @ 40 = 120
+  - Soda x 2 @ 45 = 90
+  - Pizza x 2 @ 150 = 300
+Total: 975
+Payment Mode: Cash
+
+Bill No: 100260
+Date: 2024-10-27
+Time: 02:02:48
+Customer ID: CUST0024
+Items:
+  - Chicken x 2 @ 120 = 240
+  - Orange Juice x 6 @ 70 = 420
+  - Banana x 3 @ 30 = 90
+  - Rice x 4 @ 80 = 320
+  - Coffee x 5 @ 110 = 550
+Total: 1620
+Payment Mode: Card
+
+Bill No: 100261
+Date: 2025-02-09
+Time: 07:53:04
+Customer ID: CUST0030
+Items:
+  - Cheese x 5 @ 100 = 500
+  - Pizza x 3 @ 150 = 450
+Total: 950
+Payment Mode: UPI
+
+Bill No: 100262
+Date: 2024-12-30
+Time: 09:54:39
+Customer ID: CUST0039
+Items:
+  - Chips x 5 @ 35 = 175
+  - Coffee x 5 @ 110 = 550
+  - Pizza x 4 @ 150 = 600
+  - Orange Juice x 6 @ 70 = 420
+Total: 1745
+Payment Mode: Cash
+
+Bill No: 100263
+Date: 2025-03-19
+Time: 04:56:49
+Customer ID: CUST0035
+Items:
+  - Coffee x 3 @ 110 = 330
+  - Rice x 3 @ 80 = 240
+  - Banana x 6 @ 30 = 180
+Total: 750
+Payment Mode: UPI
+
+Bill No: 100264
+Date: 2024-12-01
+Time: 21:19:40
+Customer ID: CUST0037
+Items:
+  - Chips x 6 @ 35 = 210
+  - Chicken x 1 @ 120 = 120
+  - Yogurt x 5 @ 50 = 250
+  - Rice x 4 @ 80 = 320
+Total: 900
+Payment Mode: Card
+
+Bill No: 100265
+Date: 2024-10-17
+Time: 17:21:50
+Customer ID: CUST0044
+Items:
+  - Apples x 2 @ 50 = 100
+  - Yogurt x 5 @ 50 = 250
+  - Banana x 6 @ 30 = 180
+  - Chips x 6 @ 35 = 210
+  - Coffee x 5 @ 110 = 550
+Total: 1290
+Payment Mode: Card
+
+Bill No: 100266
+Date: 2024-10-09
+Time: 20:25:43
+Customer ID: CUST0014
+Items:
+  - Apples x 5 @ 50 = 250
+  - Banana x 6 @ 30 = 180
+Total: 430
+Payment Mode: UPI
+
+Bill No: 100267
+Date: 2024-12-12
+Time: 22:23:27
+Customer ID: CUST0009
+Items:
+  - Banana x 3 @ 30 = 90
+  - Apples x 4 @ 50 = 200
+Total: 290
+Payment Mode: UPI
+
+Bill No: 100268
+Date: 2025-03-07
+Time: 21:34:50
+Customer ID: CUST0016
+Items:
+  - Soda x 5 @ 45 = 225
+  - Coffee x 4 @ 110 = 440
+  - Orange Juice x 6 @ 70 = 420
+  - Chicken x 6 @ 120 = 720
+Total: 1805
+Payment Mode: UPI
+
+Bill No: 100269
+Date: 2024-11-03
+Time: 13:34:06
+Customer ID: CUST0046
+Items:
+  - Soda x 3 @ 45 = 135
+  - Orange Juice x 6 @ 70 = 420
+Total: 555
+Payment Mode: Card
+
+Bill No: 100270
+Date: 2025-02-09
+Time: 21:04:05
+Customer ID: CUST0023
+Items:
+  - Chicken x 3 @ 120 = 360
+  - Pizza x 5 @ 150 = 750
+  - Milk x 3 @ 60 = 180
+  - Apples x 6 @ 50 = 300
+  - Orange Juice x 6 @ 70 = 420
+Total: 2010
+Payment Mode: Cash
+
+Bill No: 100271
+Date: 2024-11-29
+Time: 00:42:17
+Customer ID: CUST0040
+Items:
+  - Coffee x 3 @ 110 = 330
+  - Eggs x 5 @ 55 = 275
+  - Pasta x 3 @ 90 = 270
+Total: 875
+Payment Mode: UPI
+
+Bill No: 100272
+Date: 2024-11-09
+Time: 12:55:52
+Customer ID: CUST0002
+Items:
+  - Chips x 6 @ 35 = 210
+  - Yogurt x 6 @ 50 = 300
+  - Eggs x 4 @ 55 = 220
+Total: 730
+Payment Mode: Card
+
+Bill No: 100273
+Date: 2025-03-02
+Time: 02:17:28
+Customer ID: CUST0014
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Orange Juice x 3 @ 70 = 210
+  - Chicken x 1 @ 120 = 120
+  - Coffee x 5 @ 110 = 550
+Total: 1030
+Payment Mode: Cash
+
+Bill No: 100274
+Date: 2025-01-02
+Time: 23:00:26
+Customer ID: CUST0002
+Items:
+  - Chicken x 3 @ 120 = 360
+  - Pasta x 1 @ 90 = 90
+  - Soda x 3 @ 45 = 135
+  - Pizza x 6 @ 150 = 900
+  - Milk x 1 @ 60 = 60
+Total: 1545
+Payment Mode: Card
+
+Bill No: 100275
+Date: 2025-01-24
+Time: 06:55:18
+Customer ID: CUST0043
+Items:
+  - Orange Juice x 2 @ 70 = 140
+  - Yogurt x 5 @ 50 = 250
+  - Apples x 3 @ 50 = 150
+  - Eggs x 5 @ 55 = 275
+Total: 815
+Payment Mode: Cash
+
+Bill No: 100276
+Date: 2025-02-23
+Time: 04:33:12
+Customer ID: CUST0031
+Items:
+  - Cheese x 6 @ 100 = 600
+  - Bread x 5 @ 40 = 200
+  - Chips x 2 @ 35 = 70
+Total: 870
+Payment Mode: UPI
+
+Bill No: 100277
+Date: 2024-12-31
+Time: 05:04:12
+Customer ID: CUST0035
+Items:
+  - Apples x 6 @ 50 = 300
+Total: 300
+Payment Mode: UPI
+
+Bill No: 100278
+Date: 2025-01-26
+Time: 01:55:12
+Customer ID: CUST0036
+Items:
+  - Eggs x 4 @ 55 = 220
+Total: 220
+Payment Mode: Card
+
+Bill No: 100279
+Date: 2024-10-11
+Time: 00:58:07
+Customer ID: CUST0012
+Items:
+  - Eggs x 1 @ 55 = 55
+  - Spinach x 5 @ 25 = 125
+  - Chicken x 2 @ 120 = 240
+  - Milk x 4 @ 60 = 240
+Total: 660
+Payment Mode: Cash
+
+Bill No: 100280
+Date: 2024-10-30
+Time: 21:16:29
+Customer ID: CUST0020
+Items:
+  - Coffee x 3 @ 110 = 330
+  - Spinach x 3 @ 25 = 75
+  - Eggs x 3 @ 55 = 165
+  - Chicken x 6 @ 120 = 720
+Total: 1290
+Payment Mode: UPI
+
+Bill No: 100281
+Date: 2024-10-23
+Time: 18:33:59
+Customer ID: CUST0047
+Items:
+  - Apples x 5 @ 50 = 250
+Total: 250
+Payment Mode: Cash
+
+Bill No: 100282
+Date: 2025-03-29
+Time: 15:28:43
+Customer ID: CUST0023
+Items:
+  - Pizza x 4 @ 150 = 600
+Total: 600
+Payment Mode: UPI
+
+Bill No: 100283
+Date: 2025-02-20
+Time: 08:17:22
+Customer ID: CUST0026
+Items:
+  - Chicken x 4 @ 120 = 480
+Total: 480
+Payment Mode: UPI
+
+Bill No: 100284
+Date: 2025-04-02
+Time: 16:31:01
+Customer ID: CUST0022
+Items:
+  - Bread x 5 @ 40 = 200
+  - Banana x 5 @ 30 = 150
+  - Cheese x 1 @ 100 = 100
+Total: 450
+Payment Mode: Card
+
+Bill No: 100285
+Date: 2024-11-07
+Time: 02:32:52
+Customer ID: CUST0009
+Items:
+  - Pasta x 5 @ 90 = 450
+  - Spinach x 4 @ 25 = 100
+  - Orange Juice x 2 @ 70 = 140
+Total: 690
+Payment Mode: Cash
+
+Bill No: 100286
+Date: 2025-01-23
+Time: 02:32:23
+Customer ID: CUST0050
+Items:
+  - Orange Juice x 3 @ 70 = 210
+  - Eggs x 2 @ 55 = 110
+  - Chicken x 6 @ 120 = 720
+  - Bread x 4 @ 40 = 160
+Total: 1200
+Payment Mode: Cash
+
+Bill No: 100287
+Date: 2024-10-16
+Time: 03:48:28
+Customer ID: CUST0048
+Items:
+  - Pizza x 3 @ 150 = 450
+  - Banana x 3 @ 30 = 90
+  - Yogurt x 5 @ 50 = 250
+Total: 790
+Payment Mode: Cash
+
+Bill No: 100288
+Date: 2025-03-20
+Time: 05:23:57
+Customer ID: CUST0041
+Items:
+  - Pizza x 6 @ 150 = 900
+  - Chips x 4 @ 35 = 140
+Total: 1040
+Payment Mode: Card
+
+Bill No: 100289
+Date: 2024-12-19
+Time: 20:34:33
+Customer ID: CUST0001
+Items:
+  - Spinach x 2 @ 25 = 50
+  - Bread x 2 @ 40 = 80
+  - Soda x 4 @ 45 = 180
+  - Coffee x 3 @ 110 = 330
+  - Pasta x 2 @ 90 = 180
+Total: 820
+Payment Mode: UPI
+
+Bill No: 100290
+Date: 2025-01-30
+Time: 06:35:45
+Customer ID: CUST0001
+Items:
+  - Chicken x 3 @ 120 = 360
+  - Eggs x 3 @ 55 = 165
+  - Apples x 3 @ 50 = 150
+Total: 675
+Payment Mode: Cash
+
+Bill No: 100291
+Date: 2025-01-24
+Time: 10:51:29
+Customer ID: CUST0043
+Items:
+  - Banana x 2 @ 30 = 60
+  - Cheese x 1 @ 100 = 100
+  - Spinach x 6 @ 25 = 150
+  - Pizza x 1 @ 150 = 150
+  - Yogurt x 4 @ 50 = 200
+Total: 660
+Payment Mode: Card
+
+Bill No: 100292
+Date: 2024-11-06
+Time: 22:04:18
+Customer ID: CUST0041
+Items:
+  - Chicken x 5 @ 120 = 600
+  - Spinach x 6 @ 25 = 150
+Total: 750
+Payment Mode: Card
+
+Bill No: 100293
+Date: 2024-12-31
+Time: 14:51:21
+Customer ID: CUST0005
+Items:
+  - Chips x 3 @ 35 = 105
+Total: 105
+Payment Mode: Cash
+
+Bill No: 100294
+Date: 2024-11-02
+Time: 21:50:38
+Customer ID: CUST0015
+Items:
+  - Apples x 4 @ 50 = 200
+  - Milk x 2 @ 60 = 120
+Total: 320
+Payment Mode: Card
+
+Bill No: 100295
+Date: 2024-10-17
+Time: 06:50:28
+Customer ID: CUST0020
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Soda x 6 @ 45 = 270
+  - Coffee x 2 @ 110 = 220
+  - Orange Juice x 2 @ 70 = 140
+  - Apples x 6 @ 50 = 300
+Total: 1180
+Payment Mode: Cash
+
+Bill No: 100296
+Date: 2024-12-08
+Time: 00:29:33
+Customer ID: CUST0004
+Items:
+  - Pasta x 5 @ 90 = 450
+Total: 450
+Payment Mode: Cash
+
+Bill No: 100297
+Date: 2024-12-18
+Time: 23:18:14
+Customer ID: CUST0017
+Items:
+  - Milk x 1 @ 60 = 60
+  - Pasta x 1 @ 90 = 90
+  - Chips x 5 @ 35 = 175
+Total: 325
+Payment Mode: Cash
+
+Bill No: 100298
+Date: 2025-04-01
+Time: 17:27:43
+Customer ID: CUST0009
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Milk x 5 @ 60 = 300
+Total: 600
+Payment Mode: Card
+
+Bill No: 100299
+Date: 2025-04-08
+Time: 08:24:36
+Customer ID: CUST0027
+Items:
+  - Soda x 6 @ 45 = 270
+Total: 270
+Payment Mode: Cash
+
+Bill No: 100300
+Date: 2025-03-12
+Time: 18:06:12
+Customer ID: CUST0011
+Items:
+  - Milk x 1 @ 60 = 60
+  - Pasta x 4 @ 90 = 360
+  - Orange Juice x 2 @ 70 = 140
+  - Apples x 5 @ 50 = 250
+Total: 810
+Payment Mode: Card
+
+Bill No: 100301
+Date: 2025-03-25
+Time: 07:04:10
+Customer ID: CUST0032
+Items:
+  - Bread x 3 @ 40 = 120
+  - Orange Juice x 6 @ 70 = 420
+  - Apples x 1 @ 50 = 50
+  - Spinach x 4 @ 25 = 100
+Total: 690
+Payment Mode: Card
+
+Bill No: 100302
+Date: 2024-10-16
+Time: 21:49:41
+Customer ID: CUST0014
+Items:
+  - Soda x 5 @ 45 = 225
+Total: 225
+Payment Mode: UPI
+
+Bill No: 100303
+Date: 2025-04-01
+Time: 17:11:49
+Customer ID: CUST0017
+Items:
+  - Rice x 3 @ 80 = 240
+Total: 240
+Payment Mode: Cash
+
+Bill No: 100304
+Date: 2024-12-17
+Time: 15:24:59
+Customer ID: CUST0014
+Items:
+  - Bread x 1 @ 40 = 40
+Total: 40
+Payment Mode: Card
+
+Bill No: 100305
+Date: 2024-11-18
+Time: 22:55:56
+Customer ID: CUST0029
+Items:
+  - Chips x 4 @ 35 = 140
+Total: 140
+Payment Mode: UPI
+
+Bill No: 100306
+Date: 2025-02-18
+Time: 14:33:57
+Customer ID: CUST0001
+Items:
+  - Rice x 4 @ 80 = 320
+  - Pizza x 4 @ 150 = 600
+Total: 920
+Payment Mode: Card
+
+Bill No: 100307
+Date: 2024-11-26
+Time: 14:47:51
+Customer ID: CUST0012
+Items:
+  - Milk x 2 @ 60 = 120
+  - Spinach x 6 @ 25 = 150
+  - Pasta x 3 @ 90 = 270
+  - Orange Juice x 1 @ 70 = 70
+Total: 610
+Payment Mode: UPI
+
+Bill No: 100308
+Date: 2025-02-15
+Time: 16:02:22
+Customer ID: CUST0023
+Items:
+  - Chicken x 1 @ 120 = 120
+  - Orange Juice x 1 @ 70 = 70
+  - Milk x 3 @ 60 = 180
+  - Yogurt x 4 @ 50 = 200
+  - Eggs x 6 @ 55 = 330
+Total: 900
+Payment Mode: Cash
+
+Bill No: 100309
+Date: 2024-10-29
+Time: 02:57:27
+Customer ID: CUST0049
+Items:
+  - Rice x 4 @ 80 = 320
+  - Orange Juice x 3 @ 70 = 210
+  - Soda x 2 @ 45 = 90
+  - Eggs x 3 @ 55 = 165
+  - Chicken x 2 @ 120 = 240
+Total: 1025
+Payment Mode: Cash
+
+Bill No: 100310
+Date: 2024-12-16
+Time: 20:09:59
+Customer ID: CUST0010
+Items:
+  - Bread x 6 @ 40 = 240
+Total: 240
+Payment Mode: Card
+
+Bill No: 100311
+Date: 2025-03-09
+Time: 15:30:35
+Customer ID: CUST0031
+Items:
+  - Banana x 5 @ 30 = 150
+  - Eggs x 1 @ 55 = 55
+  - Pasta x 4 @ 90 = 360
+  - Bread x 5 @ 40 = 200
+  - Chicken x 6 @ 120 = 720
+Total: 1485
+Payment Mode: Cash
+
+Bill No: 100312
+Date: 2025-01-25
+Time: 21:09:03
+Customer ID: CUST0024
+Items:
+  - Apples x 6 @ 50 = 300
+Total: 300
+Payment Mode: UPI
+
+Bill No: 100313
+Date: 2025-03-29
+Time: 20:16:15
+Customer ID: CUST0038
+Items:
+  - Pasta x 1 @ 90 = 90
+  - Eggs x 2 @ 55 = 110
+  - Orange Juice x 5 @ 70 = 350
+  - Coffee x 3 @ 110 = 330
+Total: 880
+Payment Mode: UPI
+
+Bill No: 100314
+Date: 2025-03-28
+Time: 00:21:41
+Customer ID: CUST0028
+Items:
+  - Spinach x 3 @ 25 = 75
+  - Chips x 2 @ 35 = 70
+  - Pasta x 3 @ 90 = 270
+  - Chicken x 2 @ 120 = 240
+  - Coffee x 6 @ 110 = 660
+Total: 1315
+Payment Mode: Cash
+
+Bill No: 100315
+Date: 2024-12-27
+Time: 01:45:38
+Customer ID: CUST0026
+Items:
+  - Rice x 3 @ 80 = 240
+  - Cheese x 1 @ 100 = 100
+Total: 340
+Payment Mode: Cash
+
+Bill No: 100316
+Date: 2025-02-06
+Time: 16:23:49
+Customer ID: CUST0003
+Items:
+  - Pizza x 4 @ 150 = 600
+  - Spinach x 1 @ 25 = 25
+  - Pasta x 3 @ 90 = 270
+  - Soda x 6 @ 45 = 270
+  - Orange Juice x 6 @ 70 = 420
+Total: 1585
+Payment Mode: Card
+
+Bill No: 100317
+Date: 2025-03-03
+Time: 16:43:24
+Customer ID: CUST0047
+Items:
+  - Spinach x 3 @ 25 = 75
+  - Yogurt x 4 @ 50 = 200
+  - Soda x 2 @ 45 = 90
+  - Rice x 5 @ 80 = 400
+  - Milk x 4 @ 60 = 240
+Total: 1005
+Payment Mode: UPI
+
+Bill No: 100318
+Date: 2024-11-08
+Time: 04:10:31
+Customer ID: CUST0043
+Items:
+  - Chips x 6 @ 35 = 210
+  - Rice x 2 @ 80 = 160
+Total: 370
+Payment Mode: Card
+
+Bill No: 100319
+Date: 2025-04-06
+Time: 22:16:36
+Customer ID: CUST0014
+Items:
+  - Rice x 4 @ 80 = 320
+Total: 320
+Payment Mode: Cash
+
+Bill No: 100320
+Date: 2025-04-07
+Time: 17:27:51
+Customer ID: CUST0032
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Soda x 6 @ 45 = 270
+  - Eggs x 1 @ 55 = 55
+  - Coffee x 4 @ 110 = 440
+  - Rice x 3 @ 80 = 240
+Total: 1305
+Payment Mode: UPI
+
+Bill No: 100321
+Date: 2024-11-24
+Time: 03:10:50
+Customer ID: CUST0016
+Items:
+  - Soda x 5 @ 45 = 225
+  - Banana x 5 @ 30 = 150
+  - Cheese x 1 @ 100 = 100
+  - Coffee x 1 @ 110 = 110
+  - Spinach x 2 @ 25 = 50
+Total: 635
+Payment Mode: Cash
+
+Bill No: 100322
+Date: 2025-03-26
+Time: 01:15:33
+Customer ID: CUST0018
+Items:
+  - Soda x 1 @ 45 = 45
+  - Apples x 2 @ 50 = 100
+  - Eggs x 2 @ 55 = 110
+  - Pizza x 6 @ 150 = 900
+  - Cheese x 1 @ 100 = 100
+Total: 1255
+Payment Mode: Cash
+
+Bill No: 100323
+Date: 2024-11-09
+Time: 17:13:04
+Customer ID: CUST0037
+Items:
+  - Apples x 2 @ 50 = 100
+  - Yogurt x 4 @ 50 = 200
+  - Chips x 2 @ 35 = 70
+  - Pasta x 5 @ 90 = 450
+Total: 820
+Payment Mode: Card
+
+Bill No: 100324
+Date: 2025-03-13
+Time: 11:38:54
+Customer ID: CUST0003
+Items:
+  - Chicken x 6 @ 120 = 720
+  - Apples x 3 @ 50 = 150
+  - Orange Juice x 3 @ 70 = 210
+Total: 1080
+Payment Mode: Card
+
+Bill No: 100325
+Date: 2025-03-15
+Time: 14:22:29
+Customer ID: CUST0014
+Items:
+  - Coffee x 6 @ 110 = 660
+  - Apples x 4 @ 50 = 200
+  - Bread x 3 @ 40 = 120
+Total: 980
+Payment Mode: UPI
+
+Bill No: 100326
+Date: 2024-11-12
+Time: 13:01:42
+Customer ID: CUST0002
+Items:
+  - Spinach x 5 @ 25 = 125
+  - Soda x 2 @ 45 = 90
+  - Banana x 6 @ 30 = 180
+Total: 395
+Payment Mode: UPI
+
+Bill No: 100327
+Date: 2025-03-29
+Time: 07:36:07
+Customer ID: CUST0045
+Items:
+  - Orange Juice x 5 @ 70 = 350
+Total: 350
+Payment Mode: Cash
+
+Bill No: 100328
+Date: 2024-12-28
+Time: 05:20:09
+Customer ID: CUST0043
+Items:
+  - Rice x 2 @ 80 = 160
+  - Cheese x 4 @ 100 = 400
+  - Milk x 5 @ 60 = 300
+  - Eggs x 2 @ 55 = 110
+  - Pizza x 4 @ 150 = 600
+Total: 1570
+Payment Mode: Cash
+
+Bill No: 100329
+Date: 2024-10-13
+Time: 23:25:03
+Customer ID: CUST0036
+Items:
+  - Orange Juice x 4 @ 70 = 280
+  - Chicken x 6 @ 120 = 720
+  - Rice x 6 @ 80 = 480
+Total: 1480
+Payment Mode: Cash
+
+Bill No: 100330
+Date: 2024-11-12
+Time: 23:47:09
+Customer ID: CUST0034
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Milk x 2 @ 60 = 120
+  - Yogurt x 2 @ 50 = 100
+  - Chicken x 6 @ 120 = 720
+Total: 1210
+Payment Mode: Cash
+
+Bill No: 100331
+Date: 2025-03-01
+Time: 04:32:38
+Customer ID: CUST0046
+Items:
+  - Pizza x 1 @ 150 = 150
+  - Pasta x 5 @ 90 = 450
+  - Orange Juice x 1 @ 70 = 70
+  - Spinach x 1 @ 25 = 25
+Total: 695
+Payment Mode: Cash
+
+Bill No: 100332
+Date: 2025-04-06
+Time: 16:19:40
+Customer ID: CUST0002
+Items:
+  - Banana x 4 @ 30 = 120
+Total: 120
+Payment Mode: UPI
+
+Bill No: 100333
+Date: 2024-12-12
+Time: 16:00:04
+Customer ID: CUST0026
+Items:
+  - Milk x 2 @ 60 = 120
+  - Yogurt x 1 @ 50 = 50
+Total: 170
+Payment Mode: UPI
+
+Bill No: 100334
+Date: 2025-03-10
+Time: 02:05:24
+Customer ID: CUST0026
+Items:
+  - Pasta x 6 @ 90 = 540
+  - Pizza x 5 @ 150 = 750
+  - Banana x 4 @ 30 = 120
+  - Chips x 6 @ 35 = 210
+  - Spinach x 4 @ 25 = 100
+Total: 1720
+Payment Mode: UPI
+
+Bill No: 100335
+Date: 2025-04-07
+Time: 21:49:16
+Customer ID: CUST0041
+Items:
+  - Rice x 1 @ 80 = 80
+Total: 80
+Payment Mode: UPI
+
+Bill No: 100336
+Date: 2024-12-28
+Time: 02:37:37
+Customer ID: CUST0014
+Items:
+  - Orange Juice x 6 @ 70 = 420
+  - Coffee x 6 @ 110 = 660
+  - Cheese x 4 @ 100 = 400
+  - Banana x 2 @ 30 = 60
+  - Pasta x 1 @ 90 = 90
+Total: 1630
+Payment Mode: UPI
+
+Bill No: 100337
+Date: 2025-03-13
+Time: 22:35:29
+Customer ID: CUST0043
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Eggs x 3 @ 55 = 165
+  - Pasta x 3 @ 90 = 270
+  - Chips x 4 @ 35 = 140
+  - Orange Juice x 1 @ 70 = 70
+Total: 945
+Payment Mode: Card
+
+Bill No: 100338
+Date: 2025-02-16
+Time: 05:53:53
+Customer ID: CUST0010
+Items:
+  - Pasta x 2 @ 90 = 180
+  - Chips x 3 @ 35 = 105
+  - Eggs x 6 @ 55 = 330
+  - Yogurt x 1 @ 50 = 50
+Total: 665
+Payment Mode: Cash
+
+Bill No: 100339
+Date: 2025-03-25
+Time: 22:44:05
+Customer ID: CUST0039
+Items:
+  - Milk x 4 @ 60 = 240
+Total: 240
+Payment Mode: Card
+
+Bill No: 100340
+Date: 2025-02-28
+Time: 21:31:16
+Customer ID: CUST0010
+Items:
+  - Coffee x 6 @ 110 = 660
+  - Banana x 2 @ 30 = 60
+  - Spinach x 1 @ 25 = 25
+  - Pasta x 4 @ 90 = 360
+Total: 1105
+Payment Mode: Card
+
+Bill No: 100341
+Date: 2025-03-15
+Time: 14:16:13
+Customer ID: CUST0050
+Items:
+  - Eggs x 1 @ 55 = 55
+  - Pasta x 2 @ 90 = 180
+  - Orange Juice x 2 @ 70 = 140
+Total: 375
+Payment Mode: Cash
+
+Bill No: 100342
+Date: 2024-11-26
+Time: 08:26:52
+Customer ID: CUST0037
+Items:
+  - Coffee x 3 @ 110 = 330
+  - Cheese x 5 @ 100 = 500
+  - Banana x 5 @ 30 = 150
+  - Bread x 6 @ 40 = 240
+  - Spinach x 1 @ 25 = 25
+Total: 1245
+Payment Mode: UPI
+
+Bill No: 100343
+Date: 2024-11-29
+Time: 23:18:34
+Customer ID: CUST0022
+Items:
+  - Banana x 2 @ 30 = 60
+  - Eggs x 6 @ 55 = 330
+  - Chips x 4 @ 35 = 140
+Total: 530
+Payment Mode: UPI
+
+Bill No: 100344
+Date: 2024-11-09
+Time: 01:49:13
+Customer ID: CUST0045
+Items:
+  - Pizza x 5 @ 150 = 750
+  - Chips x 4 @ 35 = 140
+  - Eggs x 6 @ 55 = 330
+Total: 1220
+Payment Mode: Cash
+
+Bill No: 100345
+Date: 2025-03-11
+Time: 01:20:09
+Customer ID: CUST0033
+Items:
+  - Chicken x 2 @ 120 = 240
+  - Coffee x 6 @ 110 = 660
+  - Yogurt x 6 @ 50 = 300
+Total: 1200
+Payment Mode: UPI
+
+Bill No: 100346
+Date: 2025-02-22
+Time: 08:05:52
+Customer ID: CUST0014
+Items:
+  - Yogurt x 1 @ 50 = 50
+  - Banana x 3 @ 30 = 90
+  - Bread x 5 @ 40 = 200
+  - Soda x 5 @ 45 = 225
+  - Eggs x 5 @ 55 = 275
+Total: 840
+Payment Mode: Card
+
+Bill No: 100347
+Date: 2024-10-30
+Time: 03:40:00
+Customer ID: CUST0030
+Items:
+  - Banana x 4 @ 30 = 120
+  - Spinach x 4 @ 25 = 100
+  - Cheese x 2 @ 100 = 200
+Total: 420
+Payment Mode: Card
+
+Bill No: 100348
+Date: 2024-12-22
+Time: 10:40:42
+Customer ID: CUST0025
+Items:
+  - Chicken x 6 @ 120 = 720
+  - Soda x 4 @ 45 = 180
+  - Milk x 1 @ 60 = 60
+  - Spinach x 5 @ 25 = 125
+  - Chips x 3 @ 35 = 105
+Total: 1190
+Payment Mode: UPI
+
+Bill No: 100349
+Date: 2025-03-27
+Time: 12:29:47
+Customer ID: CUST0025
+Items:
+  - Milk x 3 @ 60 = 180
+Total: 180
+Payment Mode: UPI
+
+Bill No: 100350
+Date: 2024-10-16
+Time: 16:22:28
+Customer ID: CUST0015
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Yogurt x 1 @ 50 = 50
+  - Soda x 1 @ 45 = 45
+  - Pizza x 1 @ 150 = 150
+Total: 545
+Payment Mode: Card
+
+Bill No: 100351
+Date: 2025-03-24
+Time: 21:14:21
+Customer ID: CUST0047
+Items:
+  - Yogurt x 2 @ 50 = 100
+  - Chicken x 1 @ 120 = 120
+  - Cheese x 2 @ 100 = 200
+  - Bread x 4 @ 40 = 160
+Total: 580
+Payment Mode: Card
+
+Bill No: 100352
+Date: 2025-01-08
+Time: 13:28:45
+Customer ID: CUST0011
+Items:
+  - Rice x 5 @ 80 = 400
+  - Bread x 1 @ 40 = 40
+  - Banana x 5 @ 30 = 150
+  - Pasta x 5 @ 90 = 450
+  - Pizza x 3 @ 150 = 450
+Total: 1490
+Payment Mode: Card
+
+Bill No: 100353
+Date: 2024-11-21
+Time: 08:31:15
+Customer ID: CUST0015
+Items:
+  - Chips x 4 @ 35 = 140
+Total: 140
+Payment Mode: Card
+
+Bill No: 100354
+Date: 2024-11-16
+Time: 21:58:53
+Customer ID: CUST0039
+Items:
+  - Apples x 5 @ 50 = 250
+Total: 250
+Payment Mode: Cash
+
+Bill No: 100355
+Date: 2025-03-16
+Time: 17:28:26
+Customer ID: CUST0031
+Items:
+  - Chicken x 2 @ 120 = 240
+  - Milk x 3 @ 60 = 180
+Total: 420
+Payment Mode: Card
+
+Bill No: 100356
+Date: 2025-04-05
+Time: 12:12:02
+Customer ID: CUST0050
+Items:
+  - Coffee x 2 @ 110 = 220
+  - Milk x 4 @ 60 = 240
+  - Bread x 3 @ 40 = 120
+Total: 580
+Payment Mode: Card
+
+Bill No: 100357
+Date: 2025-01-06
+Time: 13:04:23
+Customer ID: CUST0015
+Items:
+  - Coffee x 3 @ 110 = 330
+  - Chicken x 3 @ 120 = 360
+  - Bread x 2 @ 40 = 80
+Total: 770
+Payment Mode: Cash
+
+Bill No: 100358
+Date: 2024-12-16
+Time: 01:25:51
+Customer ID: CUST0049
+Items:
+  - Soda x 3 @ 45 = 135
+  - Apples x 1 @ 50 = 50
+  - Bread x 4 @ 40 = 160
+  - Milk x 3 @ 60 = 180
+Total: 525
+Payment Mode: Cash
+
+Bill No: 100359
+Date: 2024-12-07
+Time: 10:11:50
+Customer ID: CUST0006
+Items:
+  - Spinach x 6 @ 25 = 150
+  - Apples x 5 @ 50 = 250
+  - Pizza x 2 @ 150 = 300
+  - Soda x 3 @ 45 = 135
+Total: 835
+Payment Mode: Card
+
+Bill No: 100360
+Date: 2025-03-17
+Time: 11:52:53
+Customer ID: CUST0008
+Items:
+  - Soda x 3 @ 45 = 135
+  - Apples x 3 @ 50 = 150
+  - Pizza x 6 @ 150 = 900
+  - Milk x 6 @ 60 = 360
+  - Coffee x 6 @ 110 = 660
+Total: 2205
+Payment Mode: Card
+
+Bill No: 100361
+Date: 2025-03-12
+Time: 14:29:00
+Customer ID: CUST0011
+Items:
+  - Apples x 3 @ 50 = 150
+  - Pizza x 1 @ 150 = 150
+  - Soda x 5 @ 45 = 225
+  - Cheese x 2 @ 100 = 200
+  - Rice x 5 @ 80 = 400
+Total: 1125
+Payment Mode: Cash
+
+Bill No: 100362
+Date: 2025-03-27
+Time: 08:33:51
+Customer ID: CUST0026
+Items:
+  - Banana x 4 @ 30 = 120
+  - Yogurt x 6 @ 50 = 300
+Total: 420
+Payment Mode: UPI
+
+Bill No: 100363
+Date: 2024-11-22
+Time: 08:34:35
+Customer ID: CUST0018
+Items:
+  - Chips x 4 @ 35 = 140
+  - Rice x 6 @ 80 = 480
+  - Yogurt x 4 @ 50 = 200
+  - Bread x 2 @ 40 = 80
+Total: 900
+Payment Mode: Cash
+
+Bill No: 100364
+Date: 2024-11-21
+Time: 10:48:13
+Customer ID: CUST0024
+Items:
+  - Apples x 2 @ 50 = 100
+  - Cheese x 6 @ 100 = 600
+  - Spinach x 4 @ 25 = 100
+Total: 800
+Payment Mode: Card
+
+Bill No: 100365
+Date: 2024-10-13
+Time: 18:11:20
+Customer ID: CUST0045
+Items:
+  - Pasta x 5 @ 90 = 450
+Total: 450
+Payment Mode: Card
+
+Bill No: 100366
+Date: 2025-02-14
+Time: 07:52:56
+Customer ID: CUST0034
+Items:
+  - Chicken x 5 @ 120 = 600
+  - Orange Juice x 1 @ 70 = 70
+  - Pasta x 3 @ 90 = 270
+  - Yogurt x 6 @ 50 = 300
+  - Soda x 5 @ 45 = 225
+Total: 1465
+Payment Mode: Cash
+
+Bill No: 100367
+Date: 2024-11-15
+Time: 15:57:17
+Customer ID: CUST0005
+Items:
+  - Eggs x 2 @ 55 = 110
+Total: 110
+Payment Mode: Cash
+
+Bill No: 100368
+Date: 2024-12-25
+Time: 12:53:26
+Customer ID: CUST0044
+Items:
+  - Pizza x 1 @ 150 = 150
+  - Spinach x 5 @ 25 = 125
+  - Chips x 6 @ 35 = 210
+Total: 485
+Payment Mode: Cash
+
+Bill No: 100369
+Date: 2024-12-11
+Time: 21:42:58
+Customer ID: CUST0019
+Items:
+  - Spinach x 1 @ 25 = 25
+  - Chicken x 1 @ 120 = 120
+  - Soda x 3 @ 45 = 135
+  - Bread x 2 @ 40 = 80
+Total: 360
+Payment Mode: Cash
+
+Bill No: 100370
+Date: 2024-12-02
+Time: 06:17:20
+Customer ID: CUST0010
+Items:
+  - Apples x 6 @ 50 = 300
+  - Coffee x 5 @ 110 = 550
+  - Pizza x 6 @ 150 = 900
+  - Soda x 5 @ 45 = 225
+  - Pasta x 2 @ 90 = 180
+Total: 2155
+Payment Mode: Card
+
+Bill No: 100371
+Date: 2025-03-26
+Time: 00:04:53
+Customer ID: CUST0035
+Items:
+  - Coffee x 1 @ 110 = 110
+Total: 110
+Payment Mode: Card
+
+Bill No: 100372
+Date: 2024-10-22
+Time: 15:25:43
+Customer ID: CUST0014
+Items:
+  - Milk x 2 @ 60 = 120
+  - Bread x 3 @ 40 = 120
+  - Rice x 3 @ 80 = 240
+  - Yogurt x 3 @ 50 = 150
+Total: 630
+Payment Mode: Card
+
+Bill No: 100373
+Date: 2025-03-08
+Time: 07:52:05
+Customer ID: CUST0026
+Items:
+  - Coffee x 4 @ 110 = 440
+  - Pizza x 1 @ 150 = 150
+Total: 590
+Payment Mode: Card
+
+Bill No: 100374
+Date: 2024-12-02
+Time: 08:43:17
+Customer ID: CUST0013
+Items:
+  - Spinach x 6 @ 25 = 150
+  - Bread x 1 @ 40 = 40
+  - Cheese x 1 @ 100 = 100
+  - Banana x 3 @ 30 = 90
+Total: 380
+Payment Mode: Cash
+
+Bill No: 100375
+Date: 2024-12-16
+Time: 08:21:51
+Customer ID: CUST0025
+Items:
+  - Pizza x 6 @ 150 = 900
+Total: 900
+Payment Mode: UPI
+
+Bill No: 100376
+Date: 2025-02-10
+Time: 17:25:34
+Customer ID: CUST0039
+Items:
+  - Pizza x 4 @ 150 = 600
+  - Orange Juice x 4 @ 70 = 280
+  - Milk x 2 @ 60 = 120
+  - Coffee x 4 @ 110 = 440
+  - Pasta x 6 @ 90 = 540
+Total: 1980
+Payment Mode: UPI
+
+Bill No: 100377
+Date: 2025-01-16
+Time: 01:54:26
+Customer ID: CUST0030
+Items:
+  - Rice x 1 @ 80 = 80
+  - Soda x 6 @ 45 = 270
+Total: 350
+Payment Mode: Cash
+
+Bill No: 100378
+Date: 2024-12-25
+Time: 18:32:27
+Customer ID: CUST0034
+Items:
+  - Pasta x 4 @ 90 = 360
+  - Chips x 4 @ 35 = 140
+Total: 500
+Payment Mode: UPI
+
+Bill No: 100379
+Date: 2025-02-18
+Time: 02:41:19
+Customer ID: CUST0005
+Items:
+  - Soda x 6 @ 45 = 270
+  - Cheese x 1 @ 100 = 100
+Total: 370
+Payment Mode: Cash
+
+Bill No: 100380
+Date: 2025-03-21
+Time: 23:39:02
+Customer ID: CUST0010
+Items:
+  - Pizza x 3 @ 150 = 450
+Total: 450
+Payment Mode: Card
+
+Bill No: 100381
+Date: 2025-01-21
+Time: 06:51:04
+Customer ID: CUST0043
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Bread x 6 @ 40 = 240
+Total: 510
+Payment Mode: Card
+
+Bill No: 100382
+Date: 2024-12-12
+Time: 11:10:29
+Customer ID: CUST0021
+Items:
+  - Spinach x 5 @ 25 = 125
+  - Chips x 1 @ 35 = 35
+  - Soda x 3 @ 45 = 135
+  - Pasta x 3 @ 90 = 270
+  - Rice x 4 @ 80 = 320
+Total: 885
+Payment Mode: Cash
+
+Bill No: 100383
+Date: 2025-04-09
+Time: 13:04:01
+Customer ID: CUST0037
+Items:
+  - Chips x 5 @ 35 = 175
+  - Pasta x 5 @ 90 = 450
+Total: 625
+Payment Mode: UPI
+
+Bill No: 100384
+Date: 2024-10-14
+Time: 12:31:57
+Customer ID: CUST0007
+Items:
+  - Spinach x 2 @ 25 = 50
+  - Bread x 3 @ 40 = 120
+Total: 170
+Payment Mode: UPI
+
+Bill No: 100385
+Date: 2024-10-31
+Time: 13:26:10
+Customer ID: CUST0007
+Items:
+  - Yogurt x 2 @ 50 = 100
+  - Coffee x 5 @ 110 = 550
+Total: 650
+Payment Mode: Card
+
+Bill No: 100386
+Date: 2025-03-28
+Time: 11:11:59
+Customer ID: CUST0043
+Items:
+  - Cheese x 2 @ 100 = 200
+  - Chips x 4 @ 35 = 140
+  - Soda x 6 @ 45 = 270
+  - Rice x 5 @ 80 = 400
+Total: 1010
+Payment Mode: Cash
+
+Bill No: 100387
+Date: 2024-11-28
+Time: 21:15:20
+Customer ID: CUST0011
+Items:
+  - Pizza x 3 @ 150 = 450
+  - Apples x 2 @ 50 = 100
+Total: 550
+Payment Mode: UPI
+
+Bill No: 100388
+Date: 2024-11-12
+Time: 20:05:27
+Customer ID: CUST0024
+Items:
+  - Pasta x 3 @ 90 = 270
+  - Chips x 1 @ 35 = 35
+  - Banana x 4 @ 30 = 120
+Total: 425
+Payment Mode: UPI
+
+Bill No: 100389
+Date: 2025-01-29
+Time: 21:38:56
+Customer ID: CUST0020
+Items:
+  - Chicken x 5 @ 120 = 600
+  - Orange Juice x 6 @ 70 = 420
+Total: 1020
+Payment Mode: Card
+
+Bill No: 100390
+Date: 2024-11-29
+Time: 17:04:03
+Customer ID: CUST0048
+Items:
+  - Coffee x 4 @ 110 = 440
+  - Soda x 2 @ 45 = 90
+  - Yogurt x 1 @ 50 = 50
+  - Apples x 5 @ 50 = 250
+Total: 830
+Payment Mode: UPI
+
+Bill No: 100391
+Date: 2024-10-16
+Time: 14:11:46
+Customer ID: CUST0005
+Items:
+  - Chips x 3 @ 35 = 105
+  - Banana x 2 @ 30 = 60
+Total: 165
+Payment Mode: Cash
+
+Bill No: 100392
+Date: 2024-10-30
+Time: 05:05:49
+Customer ID: CUST0041
+Items:
+  - Pizza x 5 @ 150 = 750
+  - Chicken x 6 @ 120 = 720
+  - Apples x 4 @ 50 = 200
+Total: 1670
+Payment Mode: Cash
+
+Bill No: 100393
+Date: 2025-02-02
+Time: 00:07:41
+Customer ID: CUST0031
+Items:
+  - Eggs x 3 @ 55 = 165
+  - Chips x 5 @ 35 = 175
+  - Bread x 1 @ 40 = 40
+  - Cheese x 6 @ 100 = 600
+  - Orange Juice x 4 @ 70 = 280
+Total: 1260
+Payment Mode: Cash
+
+Bill No: 100394
+Date: 2025-01-01
+Time: 13:07:07
+Customer ID: CUST0001
+Items:
+  - Rice x 6 @ 80 = 480
+  - Bread x 6 @ 40 = 240
+Total: 720
+Payment Mode: UPI
+
+Bill No: 100395
+Date: 2024-12-15
+Time: 06:55:24
+Customer ID: CUST0025
+Items:
+  - Bread x 3 @ 40 = 120
+  - Apples x 1 @ 50 = 50
+  - Cheese x 4 @ 100 = 400
+Total: 570
+Payment Mode: UPI
+
+Bill No: 100396
+Date: 2025-02-27
+Time: 15:10:14
+Customer ID: CUST0049
+Items:
+  - Soda x 6 @ 45 = 270
+  - Chicken x 5 @ 120 = 600
+Total: 870
+Payment Mode: Cash
+
+Bill No: 100397
+Date: 2025-03-10
+Time: 20:55:32
+Customer ID: CUST0029
+Items:
+  - Rice x 2 @ 80 = 160
+  - Milk x 2 @ 60 = 120
+  - Chips x 2 @ 35 = 70
+Total: 350
+Payment Mode: UPI
+
+Bill No: 100398
+Date: 2024-12-09
+Time: 01:44:49
+Customer ID: CUST0009
+Items:
+  - Yogurt x 2 @ 50 = 100
+  - Orange Juice x 3 @ 70 = 210
+  - Cheese x 6 @ 100 = 600
+  - Chips x 3 @ 35 = 105
+  - Pasta x 3 @ 90 = 270
+Total: 1285
+Payment Mode: Cash
+
+Bill No: 100399
+Date: 2025-01-01
+Time: 21:38:51
+Customer ID: CUST0017
+Items:
+  - Eggs x 4 @ 55 = 220
+  - Milk x 1 @ 60 = 60
+  - Chicken x 3 @ 120 = 360
+Total: 640
+Payment Mode: Cash
+
+Bill No: 100400
+Date: 2025-02-03
+Time: 21:02:33
+Customer ID: CUST0006
+Items:
+  - Cheese x 2 @ 100 = 200
+  - Eggs x 6 @ 55 = 330
+Total: 530
+Payment Mode: Card
+
+Bill No: 100401
+Date: 2025-01-16
+Time: 11:18:32
+Customer ID: CUST0047
+Items:
+  - Chicken x 2 @ 120 = 240
+  - Apples x 5 @ 50 = 250
+Total: 490
+Payment Mode: Cash
+
+Bill No: 100402
+Date: 2024-10-31
+Time: 14:51:11
+Customer ID: CUST0021
+Items:
+  - Rice x 1 @ 80 = 80
+  - Soda x 6 @ 45 = 270
+  - Apples x 1 @ 50 = 50
+Total: 400
+Payment Mode: Card
+
+Bill No: 100403
+Date: 2024-12-22
+Time: 23:02:43
+Customer ID: CUST0029
+Items:
+  - Orange Juice x 3 @ 70 = 210
+  - Yogurt x 5 @ 50 = 250
+  - Pizza x 1 @ 150 = 150
+  - Apples x 6 @ 50 = 300
+  - Chicken x 1 @ 120 = 120
+Total: 1030
+Payment Mode: Cash
+
+Bill No: 100404
+Date: 2025-04-01
+Time: 19:54:02
+Customer ID: CUST0048
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Rice x 4 @ 80 = 320
+  - Bread x 2 @ 40 = 80
+  - Chicken x 4 @ 120 = 480
+Total: 1130
+Payment Mode: UPI
+
+Bill No: 100405
+Date: 2025-01-29
+Time: 02:59:59
+Customer ID: CUST0022
+Items:
+  - Orange Juice x 3 @ 70 = 210
+  - Pizza x 5 @ 150 = 750
+  - Rice x 5 @ 80 = 400
+  - Cheese x 2 @ 100 = 200
+Total: 1560
+Payment Mode: Cash
+
+Bill No: 100406
+Date: 2024-11-15
+Time: 01:44:09
+Customer ID: CUST0031
+Items:
+  - Spinach x 1 @ 25 = 25
+  - Pasta x 1 @ 90 = 90
+  - Coffee x 1 @ 110 = 110
+  - Chicken x 6 @ 120 = 720
+Total: 945
+Payment Mode: Card
+
+Bill No: 100407
+Date: 2024-11-27
+Time: 14:59:51
+Customer ID: CUST0034
+Items:
+  - Eggs x 2 @ 55 = 110
+Total: 110
+Payment Mode: Card
+
+Bill No: 100408
+Date: 2024-10-17
+Time: 18:45:39
+Customer ID: CUST0015
+Items:
+  - Banana x 2 @ 30 = 60
+  - Soda x 6 @ 45 = 270
+  - Eggs x 3 @ 55 = 165
+  - Yogurt x 2 @ 50 = 100
+Total: 595
+Payment Mode: Card
+
+Bill No: 100409
+Date: 2025-02-23
+Time: 19:05:00
+Customer ID: CUST0037
+Items:
+  - Yogurt x 3 @ 50 = 150
+Total: 150
+Payment Mode: UPI
+
+Bill No: 100410
+Date: 2025-01-01
+Time: 20:04:48
+Customer ID: CUST0048
+Items:
+  - Pizza x 6 @ 150 = 900
+  - Banana x 3 @ 30 = 90
+  - Soda x 6 @ 45 = 270
+Total: 1260
+Payment Mode: Cash
+
+Bill No: 100411
+Date: 2024-10-09
+Time: 11:47:11
+Customer ID: CUST0002
+Items:
+  - Rice x 1 @ 80 = 80
+  - Spinach x 6 @ 25 = 150
+Total: 230
+Payment Mode: UPI
+
+Bill No: 100412
+Date: 2025-01-18
+Time: 02:54:32
+Customer ID: CUST0005
+Items:
+  - Soda x 4 @ 45 = 180
+Total: 180
+Payment Mode: UPI
+
+Bill No: 100413
+Date: 2025-04-06
+Time: 21:23:51
+Customer ID: CUST0030
+Items:
+  - Apples x 6 @ 50 = 300
+  - Orange Juice x 4 @ 70 = 280
+Total: 580
+Payment Mode: UPI
+
+Bill No: 100414
+Date: 2025-03-14
+Time: 18:31:04
+Customer ID: CUST0034
+Items:
+  - Spinach x 1 @ 25 = 25
+Total: 25
+Payment Mode: Card
+
+Bill No: 100415
+Date: 2025-01-21
+Time: 17:16:22
+Customer ID: CUST0029
+Items:
+  - Coffee x 2 @ 110 = 220
+  - Bread x 4 @ 40 = 160
+Total: 380
+Payment Mode: UPI
+
+Bill No: 100416
+Date: 2025-02-19
+Time: 12:53:27
+Customer ID: CUST0036
+Items:
+  - Eggs x 3 @ 55 = 165
+Total: 165
+Payment Mode: Card
+
+Bill No: 100417
+Date: 2025-02-25
+Time: 20:41:29
+Customer ID: CUST0004
+Items:
+  - Cheese x 2 @ 100 = 200
+  - Soda x 6 @ 45 = 270
+  - Chicken x 6 @ 120 = 720
+Total: 1190
+Payment Mode: UPI
+
+Bill No: 100418
+Date: 2025-03-02
+Time: 05:38:33
+Customer ID: CUST0033
+Items:
+  - Banana x 5 @ 30 = 150
+Total: 150
+Payment Mode: Cash
+
+Bill No: 100419
+Date: 2025-03-01
+Time: 06:44:57
+Customer ID: CUST0029
+Items:
+  - Pasta x 6 @ 90 = 540
+  - Pizza x 2 @ 150 = 300
+Total: 840
+Payment Mode: Cash
+
+Bill No: 100420
+Date: 2025-02-16
+Time: 09:15:37
+Customer ID: CUST0029
+Items:
+  - Rice x 6 @ 80 = 480
+  - Chips x 4 @ 35 = 140
+Total: 620
+Payment Mode: UPI
+
+Bill No: 100421
+Date: 2024-11-16
+Time: 10:09:18
+Customer ID: CUST0019
+Items:
+  - Eggs x 2 @ 55 = 110
+Total: 110
+Payment Mode: UPI
+
+Bill No: 100422
+Date: 2024-12-18
+Time: 21:18:00
+Customer ID: CUST0046
+Items:
+  - Chicken x 2 @ 120 = 240
+  - Pizza x 3 @ 150 = 450
+  - Soda x 6 @ 45 = 270
+  - Pasta x 1 @ 90 = 90
+  - Milk x 2 @ 60 = 120
+Total: 1170
+Payment Mode: Cash
+
+Bill No: 100423
+Date: 2024-12-31
+Time: 21:53:47
+Customer ID: CUST0001
+Items:
+  - Chips x 3 @ 35 = 105
+  - Chicken x 2 @ 120 = 240
+  - Yogurt x 5 @ 50 = 250
+  - Banana x 5 @ 30 = 150
+  - Spinach x 5 @ 25 = 125
+Total: 870
+Payment Mode: UPI
+
+Bill No: 100424
+Date: 2024-10-22
+Time: 18:00:23
+Customer ID: CUST0014
+Items:
+  - Chips x 2 @ 35 = 70
+  - Spinach x 4 @ 25 = 100
+  - Banana x 4 @ 30 = 120
+  - Chicken x 1 @ 120 = 120
+Total: 410
+Payment Mode: UPI
+
+Bill No: 100425
+Date: 2025-02-15
+Time: 03:28:37
+Customer ID: CUST0004
+Items:
+  - Milk x 3 @ 60 = 180
+  - Orange Juice x 2 @ 70 = 140
+  - Banana x 4 @ 30 = 120
+  - Pizza x 5 @ 150 = 750
+Total: 1190
+Payment Mode: Card
+
+Bill No: 100426
+Date: 2025-04-05
+Time: 23:00:29
+Customer ID: CUST0024
+Items:
+  - Pizza x 1 @ 150 = 150
+  - Chicken x 1 @ 120 = 120
+  - Apples x 5 @ 50 = 250
+Total: 520
+Payment Mode: UPI
+
+Bill No: 100427
+Date: 2024-12-12
+Time: 06:44:55
+Customer ID: CUST0030
+Items:
+  - Orange Juice x 2 @ 70 = 140
+Total: 140
+Payment Mode: UPI
+
+Bill No: 100428
+Date: 2025-02-07
+Time: 04:01:10
+Customer ID: CUST0033
+Items:
+  - Chicken x 5 @ 120 = 600
+Total: 600
+Payment Mode: Card
+
+Bill No: 100429
+Date: 2024-12-09
+Time: 02:51:28
+Customer ID: CUST0010
+Items:
+  - Rice x 6 @ 80 = 480
+  - Soda x 5 @ 45 = 225
+  - Yogurt x 5 @ 50 = 250
+  - Pasta x 5 @ 90 = 450
+  - Bread x 2 @ 40 = 80
+Total: 1485
+Payment Mode: Card
+
+Bill No: 100430
+Date: 2025-02-14
+Time: 23:30:52
+Customer ID: CUST0026
+Items:
+  - Chips x 1 @ 35 = 35
+Total: 35
+Payment Mode: Cash
+
+Bill No: 100431
+Date: 2025-03-22
+Time: 19:56:33
+Customer ID: CUST0015
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Orange Juice x 4 @ 70 = 280
+Total: 580
+Payment Mode: Cash
+
+Bill No: 100432
+Date: 2024-11-02
+Time: 08:42:03
+Customer ID: CUST0048
+Items:
+  - Chips x 6 @ 35 = 210
+Total: 210
+Payment Mode: Card
+
+Bill No: 100433
+Date: 2025-02-25
+Time: 22:12:10
+Customer ID: CUST0010
+Items:
+  - Bread x 1 @ 40 = 40
+  - Eggs x 4 @ 55 = 220
+Total: 260
+Payment Mode: UPI
+
+Bill No: 100434
+Date: 2025-04-01
+Time: 22:25:38
+Customer ID: CUST0030
+Items:
+  - Bread x 6 @ 40 = 240
+  - Cheese x 6 @ 100 = 600
+  - Spinach x 2 @ 25 = 50
+  - Yogurt x 1 @ 50 = 50
+Total: 940
+Payment Mode: UPI
+
+Bill No: 100435
+Date: 2024-12-06
+Time: 11:30:29
+Customer ID: CUST0028
+Items:
+  - Banana x 4 @ 30 = 120
+  - Milk x 3 @ 60 = 180
+Total: 300
+Payment Mode: Cash
+
+Bill No: 100436
+Date: 2025-01-15
+Time: 15:16:01
+Customer ID: CUST0011
+Items:
+  - Orange Juice x 3 @ 70 = 210
+  - Milk x 6 @ 60 = 360
+  - Pizza x 1 @ 150 = 150
+  - Pasta x 1 @ 90 = 90
+  - Yogurt x 3 @ 50 = 150
+Total: 960
+Payment Mode: Card
+
+Bill No: 100437
+Date: 2024-12-08
+Time: 05:16:33
+Customer ID: CUST0025
+Items:
+  - Milk x 5 @ 60 = 300
+  - Cheese x 6 @ 100 = 600
+  - Yogurt x 1 @ 50 = 50
+Total: 950
+Payment Mode: Card
+
+Bill No: 100438
+Date: 2025-02-15
+Time: 15:51:04
+Customer ID: CUST0027
+Items:
+  - Yogurt x 2 @ 50 = 100
+  - Banana x 3 @ 30 = 90
+  - Apples x 2 @ 50 = 100
+  - Chips x 3 @ 35 = 105
+Total: 395
+Payment Mode: UPI
+
+Bill No: 100439
+Date: 2024-12-27
+Time: 11:09:14
+Customer ID: CUST0046
+Items:
+  - Eggs x 1 @ 55 = 55
+  - Coffee x 1 @ 110 = 110
+  - Yogurt x 2 @ 50 = 100
+  - Orange Juice x 1 @ 70 = 70
+  - Banana x 4 @ 30 = 120
+Total: 455
+Payment Mode: Card
+
+Bill No: 100440
+Date: 2024-12-11
+Time: 12:01:39
+Customer ID: CUST0048
+Items:
+  - Cheese x 5 @ 100 = 500
+  - Milk x 6 @ 60 = 360
+  - Rice x 6 @ 80 = 480
+  - Banana x 6 @ 30 = 180
+Total: 1520
+Payment Mode: Card
+
+Bill No: 100441
+Date: 2024-12-26
+Time: 07:13:36
+Customer ID: CUST0012
+Items:
+  - Spinach x 4 @ 25 = 100
+  - Eggs x 6 @ 55 = 330
+Total: 430
+Payment Mode: Card
+
+Bill No: 100442
+Date: 2025-02-21
+Time: 13:07:54
+Customer ID: CUST0027
+Items:
+  - Milk x 1 @ 60 = 60
+  - Chips x 5 @ 35 = 175
+  - Pizza x 6 @ 150 = 900
+Total: 1135
+Payment Mode: UPI
+
+Bill No: 100443
+Date: 2024-12-05
+Time: 13:45:29
+Customer ID: CUST0028
+Items:
+  - Apples x 5 @ 50 = 250
+  - Chicken x 1 @ 120 = 120
+Total: 370
+Payment Mode: Card
+
+Bill No: 100444
+Date: 2025-01-24
+Time: 19:39:15
+Customer ID: CUST0018
+Items:
+  - Pasta x 3 @ 90 = 270
+Total: 270
+Payment Mode: Card
+
+Bill No: 100445
+Date: 2024-11-02
+Time: 21:06:32
+Customer ID: CUST0002
+Items:
+  - Milk x 1 @ 60 = 60
+  - Orange Juice x 3 @ 70 = 210
+  - Apples x 2 @ 50 = 100
+Total: 370
+Payment Mode: Card
+
+Bill No: 100446
+Date: 2024-11-15
+Time: 09:56:40
+Customer ID: CUST0016
+Items:
+  - Chips x 3 @ 35 = 105
+  - Yogurt x 5 @ 50 = 250
+  - Coffee x 4 @ 110 = 440
+  - Eggs x 2 @ 55 = 110
+  - Apples x 6 @ 50 = 300
+Total: 1205
+Payment Mode: Cash
+
+Bill No: 100447
+Date: 2024-12-29
+Time: 19:19:36
+Customer ID: CUST0015
+Items:
+  - Cheese x 4 @ 100 = 400
+  - Banana x 1 @ 30 = 30
+Total: 430
+Payment Mode: UPI
+
+Bill No: 100448
+Date: 2025-02-15
+Time: 06:42:02
+Customer ID: CUST0044
+Items:
+  - Yogurt x 3 @ 50 = 150
+  - Spinach x 1 @ 25 = 25
+  - Rice x 6 @ 80 = 480
+  - Coffee x 4 @ 110 = 440
+  - Banana x 6 @ 30 = 180
+Total: 1275
+Payment Mode: Cash
+
+Bill No: 100449
+Date: 2024-12-21
+Time: 18:51:00
+Customer ID: CUST0038
+Items:
+  - Eggs x 2 @ 55 = 110
+  - Coffee x 4 @ 110 = 440
+  - Orange Juice x 4 @ 70 = 280
+Total: 830
+Payment Mode: UPI
+
+Bill No: 100450
+Date: 2025-02-17
+Time: 16:26:07
+Customer ID: CUST0017
+Items:
+  - Orange Juice x 1 @ 70 = 70
+  - Bread x 2 @ 40 = 80
+Total: 150
+Payment Mode: Cash
+
+Bill No: 100451
+Date: 2025-03-03
+Time: 10:27:53
+Customer ID: CUST0041
+Items:
+  - Yogurt x 5 @ 50 = 250
+  - Apples x 1 @ 50 = 50
+  - Coffee x 5 @ 110 = 550
+  - Bread x 2 @ 40 = 80
+Total: 930
+Payment Mode: Cash
+
+Bill No: 100452
+Date: 2025-04-02
+Time: 11:17:01
+Customer ID: CUST0033
+Items:
+  - Milk x 4 @ 60 = 240
+  - Chips x 6 @ 35 = 210
+  - Pasta x 2 @ 90 = 180
+  - Banana x 2 @ 30 = 60
+Total: 690
+Payment Mode: Card
+
+Bill No: 100453
+Date: 2024-11-11
+Time: 22:55:52
+Customer ID: CUST0010
+Items:
+  - Spinach x 4 @ 25 = 100
+  - Pasta x 6 @ 90 = 540
+  - Chicken x 6 @ 120 = 720
+Total: 1360
+Payment Mode: Card
+
+Bill No: 100454
+Date: 2025-02-05
+Time: 16:24:44
+Customer ID: CUST0036
+Items:
+  - Pasta x 1 @ 90 = 90
+  - Cheese x 2 @ 100 = 200
+  - Eggs x 2 @ 55 = 110
+Total: 400
+Payment Mode: Cash
+
+Bill No: 100455
+Date: 2025-01-27
+Time: 16:07:39
+Customer ID: CUST0030
+Items:
+  - Cheese x 1 @ 100 = 100
+Total: 100
+Payment Mode: UPI
+
+Bill No: 100456
+Date: 2024-12-06
+Time: 14:25:59
+Customer ID: CUST0043
+Items:
+  - Pasta x 5 @ 90 = 450
+  - Pizza x 3 @ 150 = 450
+  - Soda x 2 @ 45 = 90
+  - Bread x 4 @ 40 = 160
+Total: 1150
+Payment Mode: Card
+
+Bill No: 100457
+Date: 2024-12-27
+Time: 00:21:08
+Customer ID: CUST0045
+Items:
+  - Orange Juice x 2 @ 70 = 140
+  - Rice x 6 @ 80 = 480
+  - Bread x 3 @ 40 = 120
+  - Pasta x 6 @ 90 = 540
+Total: 1280
+Payment Mode: Cash
+
+Bill No: 100458
+Date: 2025-01-23
+Time: 13:28:38
+Customer ID: CUST0035
+Items:
+  - Bread x 1 @ 40 = 40
+  - Eggs x 6 @ 55 = 330
+  - Rice x 2 @ 80 = 160
+  - Pizza x 3 @ 150 = 450
+  - Milk x 4 @ 60 = 240
+Total: 1220
+Payment Mode: Cash
+
+Bill No: 100459
+Date: 2025-03-20
+Time: 01:20:45
+Customer ID: CUST0015
+Items:
+  - Chips x 3 @ 35 = 105
+Total: 105
+Payment Mode: UPI
+
+Bill No: 100460
+Date: 2024-10-09
+Time: 05:47:48
+Customer ID: CUST0028
+Items:
+  - Chicken x 4 @ 120 = 480
+Total: 480
+Payment Mode: Cash
+
+Bill No: 100461
+Date: 2024-12-07
+Time: 04:03:53
+Customer ID: CUST0012
+Items:
+  - Apples x 1 @ 50 = 50
+  - Bread x 1 @ 40 = 40
+  - Coffee x 1 @ 110 = 110
+  - Pasta x 2 @ 90 = 180
+  - Milk x 2 @ 60 = 120
+Total: 500
+Payment Mode: UPI
+
+Bill No: 100462
+Date: 2024-12-03
+Time: 21:01:11
+Customer ID: CUST0043
+Items:
+  - Yogurt x 1 @ 50 = 50
+  - Spinach x 5 @ 25 = 125
+  - Pasta x 5 @ 90 = 450
+  - Rice x 3 @ 80 = 240
+Total: 865
+Payment Mode: UPI
+
+Bill No: 100463
+Date: 2024-11-18
+Time: 23:25:38
+Customer ID: CUST0038
+Items:
+  - Milk x 2 @ 60 = 120
+Total: 120
+Payment Mode: Cash
+
+Bill No: 100464
+Date: 2024-12-31
+Time: 15:19:44
+Customer ID: CUST0012
+Items:
+  - Cheese x 3 @ 100 = 300
+  - Bread x 1 @ 40 = 40
+  - Rice x 1 @ 80 = 80
+  - Chicken x 4 @ 120 = 480
+Total: 900
+Payment Mode: UPI
+
+Bill No: 100465
+Date: 2025-03-10
+Time: 17:48:23
+Customer ID: CUST0049
+Items:
+  - Rice x 6 @ 80 = 480
+  - Coffee x 4 @ 110 = 440
+Total: 920
+Payment Mode: Card
+
+Bill No: 100466
+Date: 2025-01-29
+Time: 18:49:47
+Customer ID: CUST0007
+Items:
+  - Chicken x 6 @ 120 = 720
+Total: 720
+Payment Mode: Card
+
+Bill No: 100467
+Date: 2025-02-03
+Time: 23:09:10
+Customer ID: CUST0011
+Items:
+  - Yogurt x 2 @ 50 = 100
+  - Eggs x 3 @ 55 = 165
+Total: 265
+Payment Mode: Card
+
+Bill No: 100468
+Date: 2025-02-13
+Time: 07:03:15
+Customer ID: CUST0028
+Items:
+  - Cheese x 5 @ 100 = 500
+  - Banana x 2 @ 30 = 60
+  - Chips x 6 @ 35 = 210
+  - Rice x 3 @ 80 = 240
+Total: 1010
+Payment Mode: Card
+
+Bill No: 100469
+Date: 2024-12-10
+Time: 17:41:42
+Customer ID: CUST0030
+Items:
+  - Coffee x 4 @ 110 = 440
+  - Banana x 2 @ 30 = 60
+  - Bread x 4 @ 40 = 160
+  - Cheese x 2 @ 100 = 200
+Total: 860
+Payment Mode: Cash
+
+Bill No: 100470
+Date: 2025-01-07
+Time: 10:54:25
+Customer ID: CUST0048
+Items:
+  - Apples x 4 @ 50 = 200
+  - Spinach x 6 @ 25 = 150
+  - Chicken x 3 @ 120 = 360
+  - Orange Juice x 4 @ 70 = 280
+  - Banana x 5 @ 30 = 150
+Total: 1140
+Payment Mode: Card
+
+Bill No: 100471
+Date: 2025-01-02
+Time: 22:46:37
+Customer ID: CUST0049
+Items:
+  - Spinach x 2 @ 25 = 50
+  - Soda x 1 @ 45 = 45
+  - Cheese x 3 @ 100 = 300
+Total: 395
+Payment Mode: Cash
+
+Bill No: 100472
+Date: 2025-01-03
+Time: 00:31:08
+Customer ID: CUST0019
+Items:
+  - Banana x 3 @ 30 = 90
+  - Pasta x 1 @ 90 = 90
+Total: 180
+Payment Mode: Card
+
+Bill No: 100473
+Date: 2025-02-17
+Time: 08:33:22
+Customer ID: CUST0013
+Items:
+  - Yogurt x 1 @ 50 = 50
+  - Chicken x 2 @ 120 = 240
+  - Chips x 6 @ 35 = 210
+  - Eggs x 2 @ 55 = 110
+  - Milk x 3 @ 60 = 180
+Total: 790
+Payment Mode: Cash
+
+Bill No: 100474
+Date: 2024-11-19
+Time: 15:49:32
+Customer ID: CUST0026
+Items:
+  - Apples x 5 @ 50 = 250
+Total: 250
+Payment Mode: Card
+
+Bill No: 100475
+Date: 2025-01-16
+Time: 10:08:54
+Customer ID: CUST0003
+Items:
+  - Pizza x 5 @ 150 = 750
+  - Milk x 3 @ 60 = 180
+  - Eggs x 6 @ 55 = 330
+Total: 1260
+Payment Mode: Cash
+
+Bill No: 100476
+Date: 2025-01-09
+Time: 01:06:44
+Customer ID: CUST0016
+Items:
+  - Banana x 3 @ 30 = 90
+  - Yogurt x 5 @ 50 = 250
+  - Pasta x 5 @ 90 = 450
+Total: 790
+Payment Mode: UPI
+
+Bill No: 100477
+Date: 2025-03-12
+Time: 06:58:48
+Customer ID: CUST0029
+Items:
+  - Soda x 3 @ 45 = 135
+  - Rice x 2 @ 80 = 160
+  - Chicken x 4 @ 120 = 480
+  - Apples x 1 @ 50 = 50
+  - Orange Juice x 1 @ 70 = 70
+Total: 895
+Payment Mode: UPI
+
+Bill No: 100478
+Date: 2025-04-02
+Time: 03:42:43
+Customer ID: CUST0013
+Items:
+  - Apples x 5 @ 50 = 250
+  - Banana x 4 @ 30 = 120
+Total: 370
+Payment Mode: UPI
+
+Bill No: 100479
+Date: 2025-03-12
+Time: 17:38:57
+Customer ID: CUST0025
+Items:
+  - Soda x 3 @ 45 = 135
+  - Chicken x 6 @ 120 = 720
+  - Milk x 2 @ 60 = 120
+Total: 975
+Payment Mode: Card
+
+Bill No: 100480
+Date: 2025-03-01
+Time: 01:44:02
+Customer ID: CUST0004
+Items:
+  - Banana x 2 @ 30 = 60
+Total: 60
+Payment Mode: Cash
+
+Bill No: 100481
+Date: 2024-11-11
+Time: 02:43:27
+Customer ID: CUST0032
+Items:
+  - Eggs x 5 @ 55 = 275
+  - Rice x 3 @ 80 = 240
+Total: 515
+Payment Mode: UPI
+
+Bill No: 100482
+Date: 2025-02-14
+Time: 02:22:19
+Customer ID: CUST0006
+Items:
+  - Chicken x 3 @ 120 = 360
+  - Chips x 3 @ 35 = 105
+  - Bread x 3 @ 40 = 120
+Total: 585
+Payment Mode: UPI
+
+Bill No: 100483
+Date: 2024-10-25
+Time: 15:04:51
+Customer ID: CUST0009
+Items:
+  - Rice x 6 @ 80 = 480
+  - Chicken x 4 @ 120 = 480
+Total: 960
+Payment Mode: Cash
+
+Bill No: 100484
+Date: 2024-12-03
+Time: 06:26:43
+Customer ID: CUST0029
+Items:
+  - Pizza x 6 @ 150 = 900
+  - Yogurt x 5 @ 50 = 250
+  - Orange Juice x 3 @ 70 = 210
+Total: 1360
+Payment Mode: UPI
+
+Bill No: 100485
+Date: 2025-01-17
+Time: 06:05:07
+Customer ID: CUST0028
+Items:
+  - Pizza x 3 @ 150 = 450
+  - Soda x 2 @ 45 = 90
+  - Cheese x 2 @ 100 = 200
+  - Yogurt x 6 @ 50 = 300
+  - Chicken x 1 @ 120 = 120
+Total: 1160
+Payment Mode: Cash
+
+Bill No: 100486
+Date: 2025-02-15
+Time: 01:41:17
+Customer ID: CUST0027
+Items:
+  - Chicken x 2 @ 120 = 240
+  - Rice x 5 @ 80 = 400
+  - Coffee x 3 @ 110 = 330
+  - Chips x 5 @ 35 = 175
+  - Banana x 2 @ 30 = 60
+Total: 1205
+Payment Mode: Cash
+
+Bill No: 100487
+Date: 2025-02-09
+Time: 01:37:23
+Customer ID: CUST0013
+Items:
+  - Eggs x 6 @ 55 = 330
+  - Pasta x 1 @ 90 = 90
+  - Apples x 2 @ 50 = 100
+  - Milk x 3 @ 60 = 180
+  - Pizza x 3 @ 150 = 450
+Total: 1150
+Payment Mode: UPI
+
+Bill No: 100488
+Date: 2025-02-06
+Time: 09:52:10
+Customer ID: CUST0012
+Items:
+  - Spinach x 4 @ 25 = 100
+Total: 100
+Payment Mode: UPI
+
+Bill No: 100489
+Date: 2024-12-13
+Time: 05:59:43
+Customer ID: CUST0009
+Items:
+  - Soda x 1 @ 45 = 45
+  - Eggs x 3 @ 55 = 165
+  - Yogurt x 3 @ 50 = 150
+Total: 360
+Payment Mode: UPI
+
+Bill No: 100490
+Date: 2024-10-27
+Time: 07:07:15
+Customer ID: CUST0043
+Items:
+  - Bread x 4 @ 40 = 160
+Total: 160
+Payment Mode: Card
+
+Bill No: 100491
+Date: 2025-03-17
+Time: 02:02:05
+Customer ID: CUST0028
+Items:
+  - Pizza x 4 @ 150 = 600
+  - Pasta x 3 @ 90 = 270
+  - Soda x 5 @ 45 = 225
+  - Apples x 4 @ 50 = 200
+Total: 1295
+Payment Mode: UPI
+
+Bill No: 100492
+Date: 2025-03-04
+Time: 00:27:44
+Customer ID: CUST0004
+Items:
+  - Apples x 1 @ 50 = 50
+  - Milk x 3 @ 60 = 180
+  - Coffee x 1 @ 110 = 110
+  - Bread x 3 @ 40 = 120
+Total: 460
+Payment Mode: Card
+
+Bill No: 100493
+Date: 2024-11-23
+Time: 18:28:19
+Customer ID: CUST0048
+Items:
+  - Milk x 3 @ 60 = 180
+Total: 180
+Payment Mode: UPI
+
+Bill No: 100494
+Date: 2025-02-16
+Time: 19:21:36
+Customer ID: CUST0034
+Items:
+  - Pizza x 1 @ 150 = 150
+  - Yogurt x 3 @ 50 = 150
+  - Bread x 5 @ 40 = 200
+  - Orange Juice x 5 @ 70 = 350
+Total: 850
+Payment Mode: Card
+
+Bill No: 100495
+Date: 2024-12-08
+Time: 10:33:52
+Customer ID: CUST0019
+Items:
+  - Rice x 6 @ 80 = 480
+Total: 480
+Payment Mode: UPI
+
+Bill No: 100496
+Date: 2024-11-21
+Time: 18:48:22
+Customer ID: CUST0043
+Items:
+  - Rice x 2 @ 80 = 160
+  - Milk x 2 @ 60 = 120
+  - Banana x 4 @ 30 = 120
+  - Bread x 6 @ 40 = 240
+  - Pizza x 5 @ 150 = 750
+Total: 1390
+Payment Mode: Cash
+
+Bill No: 100497
+Date: 2025-03-14
+Time: 18:45:37
+Customer ID: CUST0042
+Items:
+  - Orange Juice x 1 @ 70 = 70
+  - Spinach x 1 @ 25 = 25
+  - Cheese x 4 @ 100 = 400
+  - Rice x 5 @ 80 = 400
+  - Eggs x 5 @ 55 = 275
+Total: 1170
+Payment Mode: Card
+
+Bill No: 100498
+Date: 2024-11-16
+Time: 19:55:03
+Customer ID: CUST0029
+Items:
+  - Bread x 1 @ 40 = 40
+  - Pizza x 4 @ 150 = 600
+Total: 640
+Payment Mode: UPI
+
+Bill No: 100499
+Date: 2024-11-06
+Time: 18:37:27
+Customer ID: CUST0030
+Items:
+  - Coffee x 1 @ 110 = 110
+  - Eggs x 2 @ 55 = 110
+  - Bread x 2 @ 40 = 80
+Total: 300
+Payment Mode: Cash
+
+Bill No: 100500
+Date: 2024-10-13
+Time: 21:44:08
+Customer ID: CUST0050
+Items:
+  - Milk x 1 @ 60 = 60
+  - Apples x 3 @ 50 = 150
+  - Rice x 4 @ 80 = 320
+Total: 530
+Payment Mode: Card
