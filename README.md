@@ -12,7 +12,7 @@ Retail businesses generate large volumes of raw transaction records (like bills)
 
 ---
 
-## Challenges Addressed
+## Challenges faced
 
 - **Unstructured Text Files**: Raw bills required parsing using regex.
 - **Data Inconsistencies**: Missing values, duplicate entries, and inconsistent formats were cleaned.
@@ -20,17 +20,6 @@ Retail businesses generate large volumes of raw transaction records (like bills)
 - **Noisy Text in Bios**: Slang, emojis, and casing normalized using custom functions.
 - **High Dimensionality**: TF-IDF and encoding caused large feature spaces — resolved with PCA.
 - **Cluster Evaluation**: Used Silhouette Score and visual inspection with PCA-based 3D visualization.
-
----
-
-## Applications possible
-
-**Customer Segmentation for Targeted Marketing**
-
-- 1. Group customers based on RFM + bio features
-- 2. Identify high-value clusters for promotions
-- 3. Improve retention and marketing ROI
-- 4. Understand product affinity and behavior patterns
 
 ---
 
